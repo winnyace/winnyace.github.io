@@ -57,8 +57,8 @@ p {
 
 .grid-container {
     display: grid; 
-    grid-template-columns: repeat(5, 80px);
-    grid-template-rows: repeat(5, 80px);
+    grid-template-columns: repeat(6, 80px);
+    grid-template-rows: repeat(6, 80px);
     text-align: center;
     justify-content: center;
 }
