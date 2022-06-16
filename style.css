@@ -86,3 +86,11 @@ p {
 .tt:hover .ttText {
     visibility: visible;
 }
+
+a {
+    color:white;
+}
+
+a:hover {
+    color:gray;
+}
