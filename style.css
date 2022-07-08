@@ -39,11 +39,14 @@ ol a:hover {
 }
 
 .navbar:hover {
-    background-color: darkblue;
+    background-color: lightgray;
+    color:black;
 }
 
 p {
     color:white;
+    padding-left: 100;
+    padding-right: 100;
 }
 
 .button {
