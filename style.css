@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    background-color: #272727;
+    background-color: #121212;
     color: white;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -10,7 +10,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: darkslategrey;
+    background-color: #272727;
     overflow: hidden;
     position: sticky;
     top: 0;
@@ -39,14 +39,14 @@ ol a:hover {
 }
 
 .navbar:hover {
-    background-color: lightgray;
-    color:black;
+    background-color: #3d434e;
+    color:white;
 }
 
 p {
     color:white;
-    padding-left: 100;
-    padding-right: 100;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 .button {
@@ -96,4 +96,8 @@ a {
 
 a:hover {
     color:gray;
+}
+
+h1 {
+    font-size:225%;
 }
