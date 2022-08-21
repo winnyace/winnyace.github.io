@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "winnyace's blog"
+theme = "etch"
+publishDir = "docs"
