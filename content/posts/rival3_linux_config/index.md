@@ -1,7 +1,7 @@
 ---
 title: "SteelSeries Rival 3: Linux config mini-guide"
 date: 2022-11-30T11:33:00+02:00
-draft: false
+draft: true
 ---
 
 Hi! I've purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it.
