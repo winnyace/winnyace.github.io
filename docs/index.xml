@@ -6,9 +6,28 @@
     <description>Recent content on winnyace&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Nov 2022 11:33:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2023 18:46:34 +0200</lastBuildDate>
     
 	<atom:link href="https://winnyace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>A little story of an old laptop and Linux</title>
+      <link>https://winnyace.github.io/posts/linux_laptop_story/</link>
+      <pubDate>Tue, 24 Jan 2023 18:46:34 +0200</pubDate>
+      
+      <guid>https://winnyace.github.io/posts/linux_laptop_story/</guid>
+      <description>&lt;p&gt;Hi! Happy New Year! Today, I bring you a little story. It&amp;rsquo;s a bit of a sad one, at least for me, but I think one that would be interesting. Let&amp;rsquo;s begin!&lt;/p&gt;
+&lt;p&gt;Last week, I got quite sick. It wasn&amp;rsquo;t anything too bad, but it was enough to make me not able to go to school and not being able to go to school means that I had a lot of free time on my hands and I had to do something with it. This is where a little laptop imported from Germany comes in. This laptop was brought by dad, from one of his colleagues at work. It is a Vista era machine by Acer, an Aspire 5315 to be exact, with a ground-breaking and absolutely monstrous Intel Celeron with a whopping 2GB of RAM on board, with a max of 2GB of RAM on board!! Absolutely fantastic&amp;hellip; fantastically bad, I think for the time and especially now. It was enough to get you by then, doing simple tasks. When it reached my hands, it had Windows 7 on it, but the OS was broken beyond repair. It also had a very noisy fan, but it was very charming. The bulkyness of it and the fact it had marker written letters on the keyboard, since it had the german layout written on it, it simply won me over. I found it adorable.&lt;/p&gt;
+&lt;p&gt;When I saw the specs of it, I thought to myself that I couldn&amp;rsquo;t put any modern Windows on it and work well enough. Now, I know, this sort of laptop, even with Linux, won&amp;rsquo;t be a great experience, but I thought that for a little experiment and toy, in a sense, it could be a nice machine. And so, me and my dad began working on it. The fan was a simple fix. We had another Aspire, a 5715Z with a Pentinum Mobile Dual Core CPU, with the same cooling assembly and overall construction, down to the same screw placement. We simply just cleaned the good one and installed it. We also discovered during this time that both of these laptops have socketed CPUs, so of course we tried swapping the CPUs around and the little Aspire with sharpie on it ran that CPU somehow! The BIOS saw it and it even saw 3GB of RAM. It was more slow than usual, however, so it was clear, at least to me, that the laptop didn&amp;rsquo;t ran any better with that configuration.&lt;/p&gt;
+&lt;p&gt;After doing the switcheroo, came the time where for me to install Linux on it. I had managed to convience my dad to try it out, so I was really excited, but this is where the issues came. I decided to install Linux Mint with XFCE on it, since I thought it would be the best distro for my dad and this laptop too. It installed fine, but the problem came when I tried to boot into it, because for some reason, it installed Grub with UEFI. I&amp;rsquo;m not sure why that happened. &amp;ldquo;No problem&amp;rdquo;, I thought to myself, &amp;ldquo;I&amp;rsquo;ll fix it!&amp;rdquo;. I didn&amp;rsquo;t fix it. Anything I tried to add MBR booting to the install simply fell fall on my face every time. There was a tutorial for adding MBR booting to UEFI, but it didn&amp;rsquo;t work at all. Forums tips and the like didn&amp;rsquo;t do anything either. Grub would simply not install itself with MBR support, at all. I decided to reinstall Mint, but that also didn&amp;rsquo;t work since now the problem was that the computer would randomly shut down, around the 30% mark of the installer.&lt;/p&gt;
+&lt;p&gt;At this point, I decided to try different distros: Lubuntu and Linux Lite were the options I tried, but it didn&amp;rsquo;t help out. The same issues happened. I should also mention that, even though we switched back to the original configuration of the laptop, it took a good 30 or so minutes to install Linux on it. That HDD really needed changing, but I had nothing to change it with. I pushed through, however, until I got mad at it and I decided to give up on these &amp;ldquo;baby&amp;rdquo; distros. I pulled my sleeves up and I decided to install Arch, but the randomly shut down problem came up again.&lt;/p&gt;
+&lt;p&gt;It was getting late and so I decided to try the next day, but also no dice. At that point, I just gave up completely on it and I bit the bullet: I got a Windows 7 ISO online and installed it. It got everything it needed from&amp;hellip; somewhere, not sure where, but it had the OEM specific wallpaper and profile picture for the user too, with drivers and stuff already installed and now the machine runs Windows 7. I&amp;rsquo;m not happy with the decision I did but I couldn&amp;rsquo;t do much more than this.&lt;/p&gt;
+&lt;p&gt;So, does it work well with Windows 7? Sort of? It&amp;rsquo;s not really good and I don&amp;rsquo;t really trust it enough, but that&amp;rsquo;s not the problem. The problem is that it is extremely boring. It doesn&amp;rsquo;t have anything cool for me to do with it. It&amp;rsquo;s just&amp;hellip; an old laptop with an out-dated Windows on it. I hate it. I will probably try to do install Linux on it some time later, but I don&amp;rsquo;t think it would work. It&amp;rsquo;s sad really, but I can&amp;rsquo;t do much about it, at least with my technical skills at the moment.&lt;/p&gt;
+&lt;p&gt;Well, I hope you had a nice read. See ya!&lt;/p&gt;
+</description>
+    </item>
     
     
     
