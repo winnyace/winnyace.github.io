@@ -4,6 +4,9 @@ title = "winnyace's blog"
 theme = "etch"
 publishDir = "docs"
 
+[params]
+    favicon = "images/favicon.ico"
+    description = "A random blog online about tech and games."
 
 [menu]
     [[menu.main]]
