@@ -8,17 +8,16 @@ params:
   description: "A tech and video games related blog."
   ShowReadingTime: true
   favicon: "favicon.ico"
+  homeInfoParams:
+    Title: Hi! 👋
+    Content: I'm winnyace, or winny for short. Welcome to my blog! I hope you will enjoy! :D
 
 menu:
   main:
-    - identifier: about
-      name: about
-      title: about
-      url: /about/
-      weight: 10
     - identifier: contact
       name: contact
       title: contact
       url: /contact/
-      weight: 20
+      weight: 10
+
 

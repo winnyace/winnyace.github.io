@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+showReadingTime: false
 draft: false
 ---
 
