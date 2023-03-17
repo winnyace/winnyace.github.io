@@ -1,12 +1,13 @@
 baseURL = "https://winnyace.github.io"
 languageCode = "en-us"
 title = "winnyace's blog"
-theme = "etch"
+theme = "PaperMod"
 publishDir = "docs"
 
 [params]
     favicon = "images/favicon.ico"
     description = "A random blog online about tech and games."
+
 
 [menu]
     [[menu.main]]

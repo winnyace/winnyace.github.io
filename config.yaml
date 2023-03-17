@@ -1,0 +1,24 @@
+baseURL: 'https://winnyace.github.io'
+languageCode: en-us
+title: winnyace's blog
+theme: PaperMod
+publishDir: docs
+
+params:
+  description: "A 'tech' and video gaming blog."
+  ShowReadingTime: true
+  favicon: "favicon.ico"
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      title: about
+      url: /about/
+      weight: 10
+    - identifier: contact
+      name: contact
+      title: contact
+      url: /contact/
+      weight: 20
+
