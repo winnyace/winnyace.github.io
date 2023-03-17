@@ -5,7 +5,7 @@ theme: PaperMod
 publishDir: docs
 
 params:
-  description: "A 'tech' and video gaming blog."
+  description: "A tech and video games related blog."
   ShowReadingTime: true
   favicon: "favicon.ico"
 
