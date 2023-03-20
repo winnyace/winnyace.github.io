@@ -6,7 +6,17 @@
     <description>Recent content in Posts on winnyace&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2023 18:46:34 +0200</lastBuildDate><atom:link href="https://winnyace.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2023 22:20:05 +0200</lastBuildDate><atom:link href="https://winnyace.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some changes to my configuration</title>
+      <link>https://winnyace.github.io/posts/new_config_stuff/</link>
+      <pubDate>Fri, 17 Mar 2023 22:20:05 +0200</pubDate>
+      
+      <guid>https://winnyace.github.io/posts/new_config_stuff/</guid>
+      <description>Hi! I&amp;rsquo;ve realized that, since my last configuration post, things have changed, quite a bit. I&amp;rsquo;d like to talk about them and some of the things that I still haven&amp;rsquo;t ironed out yet. Let&amp;rsquo;s begin!
+First, my desktop environment: for a long time, I&amp;rsquo;ve used XFCE4 as my main DE. I&amp;rsquo;ve tried window managers like stock Openbox before, or desktop environments like GNOME or Cinnamon, but currently, KDE Plasma is the destkop environment I use.</description>
+    </item>
+    
     <item>
       <title>A little story of an old laptop and Linux</title>
       <link>https://winnyace.github.io/posts/linux_laptop_story/</link>
