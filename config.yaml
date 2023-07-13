@@ -5,12 +5,14 @@ theme: PaperMod
 publishDir: docs
 
 params:
-  description: "A tech and video games related blog."
+  description: "winnyace's blog. It's mostly about computers and video games."
   ShowReadingTime: true
   favicon: "favicon.ico"
   homeInfoParams:
     Title: Hi! 👋
-    Content: I'm winnyace, or winny for short. Welcome to my blog! I hope you will enjoy! :D
+    Content: "I'm winnyace, or winny for short. 
+    Welcome to my blog!
+    Here, I talk about things that interest me or that I want to share, which are mainly video games and computers."
 
 menu:
   main:
