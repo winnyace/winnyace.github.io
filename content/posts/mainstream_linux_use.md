@@ -11,7 +11,7 @@ After a series of events that happened recently, I decided to put away my prejud
 # The stated reasons why people don't use Linux
 1. Compatibility: 
 almost all of the replies mentioned this directly or indirectly. I can't argue with this because it is true to an extent. Many popular apps and games simply don't work on Linux or require lots of fiddling with tools like Wine. The Adobe suite doesn't work on Linux natively, many games that are popular nowadays like Valorant or Genshin Impact don't run or have trouble running on Linux, software for configuring devices like gaming mice or keyboards doesn't work natively either. It's true that there are alternatives for these apps or there are ways to run them with Wine, but most people don't want to bother with that. I'll come back on this later.
-1. Ease of use:
+2. Ease of use:
 this was mentioned in some of the replies I got. I can see their point, especially when it comes to configuring devices or software that doesn't work natively in Linux, however, I believe that newbie distros like Linux Mint or Ubuntu offer most system functions like updates, package management or settings in GUIs, making it easier for a new guy to set some things up quickly. There's more to this story, however.
 
 Now, while both of these are true, I believe there are more things to talk about here.
