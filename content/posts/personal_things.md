@@ -1,5 +1,5 @@
 ---
-title: "Let's try to talk some personal matters."
+title: "Let's try to talk some personal matters"
 date: 2023-08-21
 draft: false
 ---
