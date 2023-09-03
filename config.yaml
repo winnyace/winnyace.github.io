@@ -7,6 +7,7 @@ publishDir: docs
 params:
   description: winnyace's blog. It's mostly about computers and video games. 
   ShowReadingTime: true
+  ShowToc: true
   favicon: "favicon.ico"
   homeInfoParams:
     Title: Hi! 👋
@@ -26,5 +27,3 @@ menu:
       title: tags
       url: /tags/
       weight: 9
-
-
