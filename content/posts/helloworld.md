@@ -2,6 +2,8 @@
 title: "Hello, World"
 date: 2022-06-13T18:21:04+03:00
 draft: false
+tags:
+- Update
 ---
 
 Hello, world!

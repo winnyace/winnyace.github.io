@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on winnyace&#39;s blog</title>
+    <link>https://winnyace.github.io/tags/linux/</link>
+    <description>Recent content in Linux on winnyace&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://winnyace.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is, in my opinion, the reason why Linux isn&#39;t popular for normal desktop use?</title>
+      <link>https://winnyace.github.io/posts/mainstream_linux_use/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://winnyace.github.io/posts/mainstream_linux_use/</guid>
+      <description>Hi! For as long as I&amp;rsquo;ve used Linux, it wasn&amp;rsquo;t super popular with mainstream desktop usage, even amongst people that I consider to be nerdy or knowledgeable in this topic. I&amp;rsquo;ve tried many times to bring people over, oftentimes being met with failure. If you don&amp;rsquo;t mind a confession, I used to think that many people who didn&amp;rsquo;t want even try Linux were just&amp;hellip; dumb. Lazy and dumb people, blinded by Windows&amp;rsquo;s and MacOS&amp;rsquo;s marketing.</description>
+    </item>
+    
+    <item>
+      <title>SteelSeries Rival 3: Linux config mini-guide</title>
+      <link>https://winnyace.github.io/posts/rival3_linux_config/</link>
+      <pubDate>Wed, 30 Nov 2022 11:33:00 +0200</pubDate>
+      
+      <guid>https://winnyace.github.io/posts/rival3_linux_config/</guid>
+      <description>Hi! I&amp;rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it. I&amp;rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software.</description>
+    </item>
+    
+  </channel>
+</rss>

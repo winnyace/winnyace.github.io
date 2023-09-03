@@ -2,6 +2,8 @@
 title: "My configuration and stuff"
 date: 2022-08-22T11:54:02+03:00
 draft: false
+tags:
+- My Life
 ---
 
 A few months ago, I put my configuration files in a GitHub repo, something I should have done as soon as I learnt how Git works, but alas. Today, I'm going to tell you why things are the way they're there and also I hope to give some opinions on some things related to configuration. Let's begin!

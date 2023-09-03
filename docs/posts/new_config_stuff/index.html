@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Some changes to my configuration | winnyace&#39;s blog</title>
-<meta name="keywords" content="">
+<meta name="keywords" content="My Life">
 <meta name="description" content="Hi! I&rsquo;ve realized that, since my last configuration post, things have changed, quite a bit. I&rsquo;d like to talk about them and some of the things that I still haven&rsquo;t ironed out yet. Let&rsquo;s begin!
 First, my desktop environment: for a long time, I&rsquo;ve used XFCE4 as my main DE. I&rsquo;ve tried window managers like stock Openbox before, or desktop environments like GNOME or Cinnamon, but currently, KDE Plasma is the destkop environment I use.">
 <meta name="author" content="">
@@ -99,7 +99,7 @@ First, my desktop environment: for a long time, I&rsquo;ve used XFCE4 as my main
   "name": "Some changes to my configuration",
   "description": "Hi! I\u0026rsquo;ve realized that, since my last configuration post, things have changed, quite a bit. I\u0026rsquo;d like to talk about them and some of the things that I still haven\u0026rsquo;t ironed out yet. Let\u0026rsquo;s begin!\nFirst, my desktop environment: for a long time, I\u0026rsquo;ve used XFCE4 as my main DE. I\u0026rsquo;ve tried window managers like stock Openbox before, or desktop environments like GNOME or Cinnamon, but currently, KDE Plasma is the destkop environment I use.",
   "keywords": [
-    
+    "My Life"
   ],
   "articleBody": "Hi! I’ve realized that, since my last configuration post, things have changed, quite a bit. I’d like to talk about them and some of the things that I still haven’t ironed out yet. Let’s begin!\nFirst, my desktop environment: for a long time, I’ve used XFCE4 as my main DE. I’ve tried window managers like stock Openbox before, or desktop environments like GNOME or Cinnamon, but currently, KDE Plasma is the destkop environment I use. XFCE still has a soft spot in my heart, but currently, Plasma is the best in-between for me. It has the fast performance when I want that and nice animations and eye candy when I want that. It has every feature I want/need and I think it’s more feature rich than XFCE. Some might say too feature rich, but I somewhat like that. I don’t think it is as polished as GNOME, for example the calculator apps (yes, apps, because KDE seems to have separated different types of calculators in different apps) are lacking compared to GMOME’s calculator, but Plasma doesn’t feel as restricted as GNOME, which is something I really like. I would like to revisit GNOME some time later this year and lay down everything I like and don’t about it.\nNext, IDE: I’ve finally decided to move to Neovim completely. I’ve redone my configuration files, based on ThePrimeAgen’s “0 to LSP” video (god bless the man). One problem I still have is that, compared to VSCode, Neovim doesn’t have the nice debugger GUI VSCode has. I might use VSCode from now on as a nice debugger, though I wonder if there are any plugins to make add debugger functionality in Neovim and make it work and look nicely. I still have to learn how to use vim like how Vim Diesel does, but I will definitely go that path, only because I just enjoy it more. I want to have the ability to be a coconut oiled jaguar while editing code.\nLet’s go a bit through the configuration files for Neovim, actually. Above is my init.lua file. In plugins, I’ve my plugins, of course. keybinds is where I put some of my prefered keybinds. In set, I’ve some basic editor settings.\nFor my plugin system, I use packer.nvim now. A big difference between packer and vim-plug is that packer is written in Lua, configurated in Lua. I tried my best to use Lua for configurating everything and for the most part, I managed to do it.\nThe most important plugin that I’ve installed, in my opinion, is nvim-treesitter. Treesitter is a code parser, among the fastest, to my knowledge. Treesitter used alongside a set of plugins named lsp-zero add super nice syntax highlighting, code completion and code snippets as well. Another plugin I really like is telescope.nvim. This is a fuzzy finder for Neovim, made by, from what I know, a main contributor to Neovim. It is much more nicer than what I used before, which was fzf.vim. It has a preview window for the code and works just as fast as fzf. I can keep going, but it will take a long time, so I will stop myself here. Maybe I will do a full write up and the plugins I use.\nLastly, I want to touch on the new theme I’ve added for the website. For the past couple of weeks, I’ve worked on a big project for my school and I had to use Hugo to make a website for it. I saw a lot of cool themes out there, that I felt like had more features than what etch, the theme I used before, had. I really liked etch for its minimal style, but it was somewhat featureless. For example, etch doesn’t have can’t add a favicon to your website from the config file, as far as I can tell. I probably could have added that feature myself if I tried hard enough, but I kinda didn’t want to do that, so I began searching for a theme. I found PaperMod while scrolling through the themes and I really liked, and so I added it. It has the same minimal style and has many other features, like the aforementioned favicon support from the config file. I hope you guys like it!\nThat’s it, really. I can’t really think of anything else that I’ve changed. For the most part, things have staid the same. I’m hoping to write more about stuff soon. See ya!\n",
   "wordCount" : "745",
@@ -163,8 +163,13 @@ First, my desktop environment: for a long time, I&rsquo;ve used XFCE4 as my main
         </div>
         <ul id="menu">
             <li>
+                <a href="https://winnyace.github.io/tags/" title="tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
                 <a href="https://winnyace.github.io/contact/" title="contact">
-                    <span>contact</span>
+                    <span>Contact</span>
                 </a>
             </li>
         </ul>
@@ -229,6 +234,7 @@ See ya!</p>
 
   <footer class="post-footer">
     <ul class="post-tags">
+      <li><a href="https://winnyace.github.io/tags/my-life/">My Life</a></li>
     </ul>
   </footer>
 </article>

@@ -5,7 +5,8 @@ theme: PaperMod
 publishDir: docs
 
 params:
-  description: "winnyace's blog. It's mostly about computers and video games."
+  description: winnyace's blog. It's mostly about computers and video games. 
+  image: "thumbnail.png"
   ShowReadingTime: true
   favicon: "favicon.ico"
   homeInfoParams:
@@ -17,9 +18,14 @@ params:
 menu:
   main:
     - identifier: contact
-      name: contact
+      name: Contact
       title: contact
       url: /contact/
       weight: 10
+    - identifier: Tags
+      name: Tags
+      title: tags
+      url: /tags/
+      weight: 9
 
 

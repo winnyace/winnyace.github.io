@@ -2,6 +2,9 @@
 title: "osu! improvement week end"
 date: 2022-09-04T15:43:51+03:00
 draft: false
+tags:
+- osu
+- 'osu! Improvement Week 2022'
 ---
 
 Hi! I come forward to you today with the sad news that I sadly didn't get the Asymmetry score this week. In fact, I'm unsatisfied with what I did this week, so I will have a retrospective around this whole thing instead for the end. It felt fitting. 

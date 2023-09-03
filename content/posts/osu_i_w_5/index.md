@@ -2,6 +2,9 @@
 title: "osu! improvement week 5"
 date: 2022-08-17T18:54:50+03:00
 draft: false
+tags:
+- osu
+- 'osu! Improvement Week 2022'
 ---
 
 Hi! I kinda missed the mark, not gonna lie. I want from now on to post these weekly updates on Sunday. This week is missed, but next one, it will be from today to Sunday next week. I’ll try to keep my promise. Anyway, with that aside, this week was another mostly lazy one, but I got some pretty good scores. Let’s begin!

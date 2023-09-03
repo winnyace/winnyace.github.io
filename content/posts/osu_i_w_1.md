@@ -2,6 +2,9 @@
 title: "osu! improvement week 1"
 date: 2022-07-17T18:35:53+03:00
 draft: false
+tags:
+- osu
+- 'osu! Improvement Week 2022'
 ---
 
 This week was mostly about getting started with this and trying to enter into a routine. I wanted to play around the same time every single day, but there are a few challenges to that. back in 2020, I used to play around 10-11AM in the morning, for a hour or two, almost every single day. considering I've other things on my plate nowadays, though, I can't exactly do that, but I think skipping a day or two won't be the end of the world.

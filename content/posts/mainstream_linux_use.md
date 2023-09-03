@@ -2,6 +2,9 @@
 title: "What is, in my opinion, the reason why Linux isn't popular for normal desktop use?"
 date: 2023-07-13
 draft: false
+tags: 
+- Linux
+- Opinions
 ---
 
 Hi! For as long as I've used Linux, it wasn't super popular with mainstream desktop usage, even amongst people that I consider to be nerdy or knowledgeable in this topic. I've tried many times to bring people over, oftentimes being met with failure. If you don't mind a confession, I used to think that many people who didn't want even try Linux were just... dumb. Lazy and dumb people, blinded by Windows's and MacOS's marketing. "Why can't they see this as the better OS?" is what I said to myself oftentimes.

@@ -2,6 +2,8 @@
 title: "Let's try to talk some personal matters"
 date: 2023-08-21
 draft: false
+tags:
+- My Life
 ---
 
 Hi! Well, some people, if there is someone reading this blog, knows that I've posted something similar to this a few months ago. I've removed that post due to some trolls coming on a Discord server I was in. They saw my blog and that post and began to do what a troll does best: troll. I'm going to hope something like that doesn't happen again. I know this isn't the usual stuff I talk about here, but it's my blog and I will just talk about whatever interests me at the time.

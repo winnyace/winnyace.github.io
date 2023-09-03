@@ -1,7 +1,9 @@
 ---
 title: "Some changes to my configuration"
 date: 2023-03-17T22:20:05+02:00
-draft: false 
+draft: false
+tags:
+- My Life
 ---
 
 Hi! I've realized that, since my last configuration post, things have changed, quite a bit. I'd like to talk about them and some of the things that I still haven't ironed out yet. Let's begin!

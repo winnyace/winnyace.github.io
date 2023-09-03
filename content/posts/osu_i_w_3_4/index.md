@@ -2,6 +2,9 @@
 title: "osu! improvement week 3 and 4"
 date: 2022-08-08T13:59:27+03:00
 draft: false
+tags:
+- osu
+- 'osu! Improvement Week 2022'
 ---
 
 Towards the beginning of week 3, I got sick and I couldn't really play, which made me feel like these two weeks would be boring, but I got some pretty good scores overall, and I think I'm starting to go down the right path. let's begin with week 3. the only score worth noting here is a FC on an, at the time, newly ranked map of a Gochiusa song. it's a pretty bog standard map, but getting it was very rewarding. below you've the score.

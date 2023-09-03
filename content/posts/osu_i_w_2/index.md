@@ -2,6 +2,9 @@
 title: "osu! improvement week 2"
 date: 2022-07-25T13:59:27+03:00
 draft: false
+tags:
+- osu
+- 'osu! Improvement Week 2022'
 ---
 
 Hi! This is the second week of my osu! improvement journey some nice things have happened, but it's yet another, sort of, lazy week. Let's begin!

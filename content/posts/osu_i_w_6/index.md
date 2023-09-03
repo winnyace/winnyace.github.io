@@ -2,6 +2,9 @@
 title: "osu! improvement week 6"
 date: 2022-08-28T10:51:41+03:00
 draft: false
+tags:
+- osu
+- 'osu! Improvement Week 2022'
 ---
 
 Hi! This week is a bit disappointing due to serval reasons, but I think it's time to do some retrospective and bring some news to this series.

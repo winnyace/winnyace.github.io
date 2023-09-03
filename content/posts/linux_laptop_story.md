@@ -2,6 +2,9 @@
 title: "A little story of an old laptop and Linux"
 date: 2023-01-24T18:46:34+02:00
 draft: false
+tags: 
+- My Life
+- Story
 ---
 
 Hi! Happy New Year! Today, I bring you a little story. It's a bit of a sad one, at least for me, but I think one that would be interesting. Let's begin!
