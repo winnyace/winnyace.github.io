@@ -14,14 +14,23 @@ params:
     Content: "I'm winnyace, or winny for short. 
     Welcome to my blog!
     Here, I talk about things that interest me or that I want to share, which are mainly video games and computers."
+  socialIcons:
+    - name: "GitHub"
+      title: "GitHub"
+      url: "https://github.com/winnyace"
+    - name: "YouTube"
+      title: "YouTube"
+      url: "https://youtube.com/@winnyace82"
+    - name: "osu!"
+      title: "osu! profile"
+      url: "https://osu.ppy.sh/users/winnyace"
+    - name: "email"
+      title: "Personal email: winnyace@skiff.com"
+      url: "mailto:winnyace@skiff.com"
+
 
 menu:
   main:
-    - identifier: contact
-      name: Contact
-      title: contact
-      url: /contact/
-      weight: 10
     - identifier: Tags
       name: Tags
       title: tags
