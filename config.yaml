@@ -11,9 +11,19 @@ params:
   favicon: "favicon.ico"
   homeInfoParams:
     Title: Hi! 👋
-    Content: "I'm winnyace, or winny for short. 
-    Welcome to my blog!
-    Here, I talk about things that interest me or that I want to share, which are mainly video games and computers."
+    Content: "I'm winnyace, or winny for short. Welcome to my blog! Here, I talk about things that interest me or that I want to share, which are mainly video games and computers."
+
+  socialIcons:
+    - name: "github"
+      title: "GitHub Profile"
+      url: "https://github.com/winnyace"
+    - name: "osu!"
+      title: "osu! Profile"
+      url: "https://osu.ppy.sh/users/winnyace"
+    - name: "email"
+      title: "Personal email: winnyace@skiff.com"
+      url: "mailto:winnyace@skiff.com"
+
 
 menu:
   main:
