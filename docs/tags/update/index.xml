@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Update on winnyace&#39;s blog</title>
     <link>https://winnyace.github.io/tags/update/</link>
     <description>Recent content in Update on winnyace&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Aug 2022 13:55:55 +0300</lastBuildDate><atom:link href="https://winnyace.github.io/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Apr 2024 13:12:42 +0300</lastBuildDate>
+    <atom:link href="https://winnyace.github.io/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rambles: Long time no see.</title>
+      <link>https://winnyace.github.io/posts/talking_time_1/</link>
+      <pubDate>Fri, 05 Apr 2024 13:12:42 +0300</pubDate>
+      <guid>https://winnyace.github.io/posts/talking_time_1/</guid>
+      <description>Yo! Long time no see. I have began university, at computer science. Things have been mixed, but mostly well. I kinda just want to do a post to say that I&amp;rsquo;m here and I want to do stuff here. Not sure what, but I know want to do stuff.
+I wanna try to do blog posts that talk about random stuff, either in my life or online that I have an interest in and that sparked my own curiosity.</description>
+    </item>
     <item>
       <title>osu! improvement week 3 delay</title>
       <link>https://winnyace.github.io/posts/osu_i_w_3_delay/</link>
       <pubDate>Mon, 01 Aug 2022 13:55:55 +0300</pubDate>
-      
       <guid>https://winnyace.github.io/posts/osu_i_w_3_delay/</guid>
       <description>Hi. Due to me getting slightly sick and also not enough scores to show, I decided to not do this week and I&amp;rsquo;ll lump week 3 and 4 into one. I&amp;rsquo;m sorry for the inconvenience and I hope that I&amp;rsquo;ll show some good stuff next week.</description>
     </item>
-    
     <item>
       <title>Hello, World</title>
       <link>https://winnyace.github.io/posts/helloworld/</link>
       <pubDate>Mon, 13 Jun 2022 18:21:04 +0300</pubDate>
-      
       <guid>https://winnyace.github.io/posts/helloworld/</guid>
       <description>Hello, world! I&amp;rsquo;m currently still trying to put everything together for the blog and website. right now, for some reason, the new style isn&amp;rsquo;t being implemented, which is kind of annoying. I had to delete my previous repo for this to work, sadly. it&amp;rsquo;s fine now, though. I&amp;rsquo;m glad how well this turned up to be. now, for the future. I&amp;rsquo;m not too sure what I will do here, but I know I want to do something and hopefully share on my little bit of knowledge I&amp;rsquo;ve and leave my mark on this world, somehow.</description>
     </item>
-    
   </channel>
 </rss>

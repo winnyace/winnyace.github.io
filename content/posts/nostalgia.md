@@ -5,6 +5,7 @@ date: 2022-06-16T14:29:02+03:00
 draft: false
 tags:
 - My Life
+- Rambles
 ---
 
 I was at my computer, like I always am. Just finished my cycling session and I was really bored, and I saw a Vtuber meme which had a low quality version of Candyland by Tobu, released by NCS, I think(?). Out of my boredom, I decided to actually search for the meme. I’ve enjoyed for the… 10 seconds that it is funny, and then, out of nowhere, I got the title of a song from my childhood in my head: Imaginary Friends by Laszlo, also released by NCS. I suppose, I should explain a bit. 

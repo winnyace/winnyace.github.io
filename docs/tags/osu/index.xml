@@ -1,81 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>osu on winnyace&#39;s blog</title>
+    <title>Osu on winnyace&#39;s blog</title>
     <link>https://winnyace.github.io/tags/osu/</link>
-    <description>Recent content in osu on winnyace&#39;s blog</description>
+    <description>Recent content in Osu on winnyace&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Sep 2022 15:43:51 +0300</lastBuildDate><atom:link href="https://winnyace.github.io/tags/osu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 15:43:51 +0300</lastBuildDate>
+    <atom:link href="https://winnyace.github.io/tags/osu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>osu! improvement week end</title>
       <link>https://winnyace.github.io/posts/osu_i_w_end/</link>
       <pubDate>Sun, 04 Sep 2022 15:43:51 +0300</pubDate>
-      
       <guid>https://winnyace.github.io/posts/osu_i_w_end/</guid>
       <description>Hi! I come forward to you today with the sad news that I sadly didn&amp;rsquo;t get the Asymmetry score this week. In fact, I&amp;rsquo;m unsatisfied with what I did this week, so I will have a retrospective around this whole thing instead for the end. It felt fitting.
 I should, however, at least post what I managed to get in terms of the score, which is a slight improvement over the previous score.</description>
     </item>
-    
     <item>
       <title>osu! improvement week 6</title>
       <link>https://winnyace.github.io/posts/osu_i_w_6/</link>
       <pubDate>Sun, 28 Aug 2022 10:51:41 +0300</pubDate>
-      
       <guid>https://winnyace.github.io/posts/osu_i_w_6/</guid>
       <description>Hi! This week is a bit disappointing due to serval reasons, but I think it&amp;rsquo;s time to do some retrospective and bring some news to this series.
 I will present the scores, first off, in no chronological order. Spoiler alert: only 2 FCs this time. Most scores will be passes.
 First up is a score that I wanted since week 3&amp;amp;4: Futari no Kimochi no Honto no Himitsu DT FC:</description>
     </item>
-    
     <item>
       <title>osu! improvement week 5</title>
       <link>https://winnyace.github.io/posts/osu_i_w_5/</link>
       <pubDate>Wed, 17 Aug 2022 18:54:50 +0300</pubDate>
-      
       <guid>https://winnyace.github.io/posts/osu_i_w_5/</guid>
       <description>Hi! I kinda missed the mark, not gonna lie. I want from now on to post these weekly updates on Sunday. This week is missed, but next one, it will be from today to Sunday next week. I’ll try to keep my promise. Anyway, with that aside, this week was another mostly lazy one, but I got some pretty good scores. Let’s begin!
 After my post from last week, I didn’t play until Thursday.</description>
     </item>
-    
     <item>
       <title>osu! improvement week 3 and 4</title>
       <link>https://winnyace.github.io/posts/osu_i_w_3_4/</link>
       <pubDate>Mon, 08 Aug 2022 13:59:27 +0300</pubDate>
-      
       <guid>https://winnyace.github.io/posts/osu_i_w_3_4/</guid>
       <description>Towards the beginning of week 3, I got sick and I couldn&amp;rsquo;t really play, which made me feel like these two weeks would be boring, but I got some pretty good scores overall, and I think I&amp;rsquo;m starting to go down the right path. let&amp;rsquo;s begin with week 3. the only score worth noting here is a FC on an, at the time, newly ranked map of a Gochiusa song. it&amp;rsquo;s a pretty bog standard map, but getting it was very rewarding.</description>
     </item>
-    
     <item>
       <title>osu! improvement week 2</title>
       <link>https://winnyace.github.io/posts/osu_i_w_2/</link>
       <pubDate>Mon, 25 Jul 2022 13:59:27 +0300</pubDate>
-      
       <guid>https://winnyace.github.io/posts/osu_i_w_2/</guid>
       <description>Hi! This is the second week of my osu! improvement journey some nice things have happened, but it&amp;rsquo;s yet another, sort of, lazy week. Let&amp;rsquo;s begin!
 On Monday and Tuesday, I didn&amp;rsquo;t play at all. no excuse, really. Just laziness.
 On Wednesday, I played for the first time this week. it was pretty good day I got two HR scores. Admittedly, they&amp;rsquo;re quite boring scores, but I think it&amp;rsquo;s a step in the right direction when it comes to HR.</description>
     </item>
-    
     <item>
       <title>osu! improvement week 1</title>
       <link>https://winnyace.github.io/posts/osu_i_w_1/</link>
       <pubDate>Sun, 17 Jul 2022 18:35:53 +0300</pubDate>
-      
       <guid>https://winnyace.github.io/posts/osu_i_w_1/</guid>
       <description>This week was mostly about getting started with this and trying to enter into a routine. I wanted to play around the same time every single day, but there are a few challenges to that. back in 2020, I used to play around 10-11AM in the morning, for a hour or two, almost every single day. considering I&amp;rsquo;ve other things on my plate nowadays, though, I can&amp;rsquo;t exactly do that, but I think skipping a day or two won&amp;rsquo;t be the end of the world.</description>
     </item>
-    
     <item>
       <title>osu! improvement week 0</title>
       <link>https://winnyace.github.io/posts/osu_i_w_0/</link>
       <pubDate>Fri, 08 Jul 2022 18:28:33 +0300</pubDate>
-      
       <guid>https://winnyace.github.io/posts/osu_i_w_0/</guid>
       <description>A big part of my teenage life was discovering and playing osu!, a pretty popular rhythm game. I’ve been playing since June of 2016 and ever since then, I wanted to be a good player. Due to laziness, lack of motivation and other similar things, in my 6 years of playing this game, I didn’t get extremely far, but I keep on trying to both improve and have fun.
 In the summer of 2020, I was playing this game quite a lot, to the point where I was doing things that were previously impossible for me.</description>
     </item>
-    
   </channel>
 </rss>
