@@ -8,6 +8,6 @@ Below you've contact info.
 
 [My osu! profile](https://osu.ppy.sh/users/winnyace)
 
-[My primary email (winnyace@skiff.com)](mailto:winnyace@skiff.com)
+[My primary email (winnyace@proton.me)](mailto:winnyace@proton.me)
 
-[My GitHub](https://github.com/winnyace)
+My Discord is @winnyace.
