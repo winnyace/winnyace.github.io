@@ -21,8 +21,8 @@ params:
       title: "osu! Profile"
       url: "https://osu.ppy.sh/users/winnyace"
     - name: "email"
-      title: "Personal email: winnyace@skiff.com"
-      url: "mailto:winnyace@skiff.com"
+      title: "Personal email: winnyace@proton.me"
+      url: "mailto:winnyace@proton.me"
 
 
 menu:
