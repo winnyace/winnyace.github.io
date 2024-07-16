@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Story on winnyace&#39;s blog</title>
-    <link>https://winnyace.github.io/tags/story/</link>
+    <link>http://localhost:1313/tags/story/</link>
     <description>Recent content in Story on winnyace&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jan 2023 18:46:34 +0200</lastBuildDate>
-    <atom:link href="https://winnyace.github.io/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/story/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A little story of an old laptop and Linux</title>
-      <link>https://winnyace.github.io/posts/linux_laptop_story/</link>
+      <link>http://localhost:1313/posts/linux_laptop_story/</link>
       <pubDate>Tue, 24 Jan 2023 18:46:34 +0200</pubDate>
-      <guid>https://winnyace.github.io/posts/linux_laptop_story/</guid>
+      <guid>http://localhost:1313/posts/linux_laptop_story/</guid>
       <description>Hi! Happy New Year! Today, I bring you a little story. It&amp;rsquo;s a bit of a sad one, at least for me, but I think one that would be interesting. Let&amp;rsquo;s begin!
 Last week, I got quite sick. It wasn&amp;rsquo;t anything too bad, but it was enough to make me not able to go to school and not being able to go to school means that I had a lot of free time on my hands and I had to do something with it.</description>
     </item>

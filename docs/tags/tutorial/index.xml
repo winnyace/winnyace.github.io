@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on winnyace&#39;s blog</title>
-    <link>https://winnyace.github.io/tags/tutorial/</link>
+    <link>http://localhost:1313/tags/tutorial/</link>
     <description>Recent content in Tutorial on winnyace&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://winnyace.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fixing a new bug that causes TF2 to crash on startup on Linux.</title>
-      <link>https://winnyace.github.io/posts/tf2_arch_fix/</link>
+      <link>http://localhost:1313/posts/tf2_arch_fix/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://winnyace.github.io/posts/tf2_arch_fix/</guid>
+      <guid>http://localhost:1313/posts/tf2_arch_fix/</guid>
       <description>Hi! I like playing TF2. It&amp;rsquo;s a fun game, even if Valve doesn&amp;rsquo;t really give a shit about it. Problem is that I haven&amp;rsquo;t played in quite some time and I wanted to play it recently. Sadly, I couldn&amp;rsquo;t due to a new update that introduced a bug, I think. I would tell you more if I knew more. All I know is the fix for this issue, that I found on ProtonDB&amp;rsquo;s page for TF2.</description>
     </item>
     <item>
       <title>SteelSeries Rival 3: Linux config mini-guide</title>
-      <link>https://winnyace.github.io/posts/rival3_linux_config/</link>
+      <link>http://localhost:1313/posts/rival3_linux_config/</link>
       <pubDate>Wed, 30 Nov 2022 11:33:00 +0200</pubDate>
-      <guid>https://winnyace.github.io/posts/rival3_linux_config/</guid>
+      <guid>http://localhost:1313/posts/rival3_linux_config/</guid>
       <description>Hi! I&amp;rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it. I&amp;rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software.</description>
     </item>
   </channel>
