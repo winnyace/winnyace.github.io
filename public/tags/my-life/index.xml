@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Life on winnyace&#39;s blog</title>
-    <link>http://localhost:1313/tags/my-life/</link>
+    <link>http://winnyace.github.io/tags/my-life/</link>
     <description>Recent content in My Life on winnyace&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Apr 2024 13:12:42 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/my-life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://winnyace.github.io/tags/my-life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rambles: Long time no see.</title>
-      <link>http://localhost:1313/posts/talking_time_1/</link>
+      <link>http://winnyace.github.io/posts/talking_time_1/</link>
       <pubDate>Fri, 05 Apr 2024 13:12:42 +0300</pubDate>
-      <guid>http://localhost:1313/posts/talking_time_1/</guid>
+      <guid>http://winnyace.github.io/posts/talking_time_1/</guid>
       <description>Yo! Long time no see. I have began university, at computer science. Things have been mixed, but mostly well. I kinda just want to do a post to say that I&amp;rsquo;m here and I want to do stuff here. Not sure what, but I know want to do stuff.
 I wanna try to do blog posts that talk about random stuff, either in my life or online that I have an interest in and that sparked my own curiosity.</description>
     </item>
     <item>
       <title>Let&#39;s try to talk some personal matters</title>
-      <link>http://localhost:1313/posts/personal_things/</link>
+      <link>http://winnyace.github.io/posts/personal_things/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/personal_things/</guid>
+      <guid>http://winnyace.github.io/posts/personal_things/</guid>
       <description>Hi! Well, some people, if there is someone reading this blog, knows that I&amp;rsquo;ve posted something similar to this a few months ago. I&amp;rsquo;ve removed that post due to some trolls coming on a Discord server I was in. They saw my blog and that post and began to do what a troll does best: troll. I&amp;rsquo;m going to hope something like that doesn&amp;rsquo;t happen again. I know this isn&amp;rsquo;t the usual stuff I talk about here, but it&amp;rsquo;s my blog and I will just talk about whatever interests me at the time.</description>
     </item>
     <item>
       <title>Some changes to my configuration</title>
-      <link>http://localhost:1313/posts/new_config_stuff/</link>
+      <link>http://winnyace.github.io/posts/new_config_stuff/</link>
       <pubDate>Fri, 17 Mar 2023 22:20:05 +0200</pubDate>
-      <guid>http://localhost:1313/posts/new_config_stuff/</guid>
+      <guid>http://winnyace.github.io/posts/new_config_stuff/</guid>
       <description>Hi! I&amp;rsquo;ve realized that, since my last configuration post, things have changed, quite a bit. I&amp;rsquo;d like to talk about them and some of the things that I still haven&amp;rsquo;t ironed out yet. Let&amp;rsquo;s begin!
 First, my desktop environment: for a long time, I&amp;rsquo;ve used XFCE4 as my main DE. I&amp;rsquo;ve tried window managers like stock Openbox before, or desktop environments like GNOME or Cinnamon, but currently, KDE Plasma is the destkop environment I use.</description>
     </item>
     <item>
       <title>A little story of an old laptop and Linux</title>
-      <link>http://localhost:1313/posts/linux_laptop_story/</link>
+      <link>http://winnyace.github.io/posts/linux_laptop_story/</link>
       <pubDate>Tue, 24 Jan 2023 18:46:34 +0200</pubDate>
-      <guid>http://localhost:1313/posts/linux_laptop_story/</guid>
+      <guid>http://winnyace.github.io/posts/linux_laptop_story/</guid>
       <description>Hi! Happy New Year! Today, I bring you a little story. It&amp;rsquo;s a bit of a sad one, at least for me, but I think one that would be interesting. Let&amp;rsquo;s begin!
 Last week, I got quite sick. It wasn&amp;rsquo;t anything too bad, but it was enough to make me not able to go to school and not being able to go to school means that I had a lot of free time on my hands and I had to do something with it.</description>
     </item>
     <item>
       <title>My configuration and stuff</title>
-      <link>http://localhost:1313/posts/configuration_and_stuff/</link>
+      <link>http://winnyace.github.io/posts/configuration_and_stuff/</link>
       <pubDate>Mon, 22 Aug 2022 11:54:02 +0300</pubDate>
-      <guid>http://localhost:1313/posts/configuration_and_stuff/</guid>
+      <guid>http://winnyace.github.io/posts/configuration_and_stuff/</guid>
       <description>A few months ago, I put my configuration files in a GitHub repo, something I should have done as soon as I learnt how Git works, but alas. Today, I&amp;rsquo;m going to tell you why things are the way they&amp;rsquo;re there and also I hope to give some opinions on some things related to configuration. Let&amp;rsquo;s begin!
 Before I go into them, I want to get out some basic things out of the way.</description>
     </item>
     <item>
       <title>Nostalgia</title>
-      <link>http://localhost:1313/posts/nostalgia/</link>
+      <link>http://winnyace.github.io/posts/nostalgia/</link>
       <pubDate>Thu, 16 Jun 2022 14:29:02 +0300</pubDate>
-      <guid>http://localhost:1313/posts/nostalgia/</guid>
+      <guid>http://winnyace.github.io/posts/nostalgia/</guid>
       <description>I was at my computer, like I always am. Just finished my cycling session and I was really bored, and I saw a Vtuber meme which had a low quality version of Candyland by Tobu, released by NCS, I think(?). Out of my boredom, I decided to actually search for the meme. I’ve enjoyed for the… 10 seconds that it is funny, and then, out of nowhere, I got the title of a song from my childhood in my head: Imaginary Friends by Laszlo, also released by NCS.</description>
     </item>
   </channel>

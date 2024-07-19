@@ -2,171 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>winnyace&#39;s blog</title>
-    <link>http://localhost:1313/</link>
+    <link>http://winnyace.github.io/</link>
     <description>Recent content on winnyace&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 May 2024 09:50:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://winnyace.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I won&#39;t add comments.</title>
-      <link>http://localhost:1313/posts/comments/</link>
+      <link>http://winnyace.github.io/posts/comments/</link>
       <pubDate>Wed, 01 May 2024 09:50:00 +0300</pubDate>
-      <guid>http://localhost:1313/posts/comments/</guid>
+      <guid>http://winnyace.github.io/posts/comments/</guid>
       <description>Hi all! I have said in my most recent blog post that I want to add comments to this blog. After a bit of thinking about it, though, I kinda wonder if this is really a good idea.
 To explain, we have to go a bit back, around a year ago, if my memory recalls correctly. I posted a post similar to my &amp;ldquo;Personal Matters&amp;rdquo; post. The same day I posted it, some goons came on a Discord server I was on and they saw that post and began to troll me over it.</description>
     </item>
     <item>
       <title>Rambles: Long time no see.</title>
-      <link>http://localhost:1313/posts/talking_time_1/</link>
+      <link>http://winnyace.github.io/posts/talking_time_1/</link>
       <pubDate>Fri, 05 Apr 2024 13:12:42 +0300</pubDate>
-      <guid>http://localhost:1313/posts/talking_time_1/</guid>
+      <guid>http://winnyace.github.io/posts/talking_time_1/</guid>
       <description>Yo! Long time no see. I have began university, at computer science. Things have been mixed, but mostly well. I kinda just want to do a post to say that I&amp;rsquo;m here and I want to do stuff here. Not sure what, but I know want to do stuff.
 I wanna try to do blog posts that talk about random stuff, either in my life or online that I have an interest in and that sparked my own curiosity.</description>
     </item>
     <item>
       <title>Fixing a new bug that causes TF2 to crash on startup on Linux.</title>
-      <link>http://localhost:1313/posts/tf2_arch_fix/</link>
+      <link>http://winnyace.github.io/posts/tf2_arch_fix/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tf2_arch_fix/</guid>
+      <guid>http://winnyace.github.io/posts/tf2_arch_fix/</guid>
       <description>Hi! I like playing TF2. It&amp;rsquo;s a fun game, even if Valve doesn&amp;rsquo;t really give a shit about it. Problem is that I haven&amp;rsquo;t played in quite some time and I wanted to play it recently. Sadly, I couldn&amp;rsquo;t due to a new update that introduced a bug, I think. I would tell you more if I knew more. All I know is the fix for this issue, that I found on ProtonDB&amp;rsquo;s page for TF2.</description>
     </item>
     <item>
       <title>Let&#39;s try to talk some personal matters</title>
-      <link>http://localhost:1313/posts/personal_things/</link>
+      <link>http://winnyace.github.io/posts/personal_things/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/personal_things/</guid>
+      <guid>http://winnyace.github.io/posts/personal_things/</guid>
       <description>Hi! Well, some people, if there is someone reading this blog, knows that I&amp;rsquo;ve posted something similar to this a few months ago. I&amp;rsquo;ve removed that post due to some trolls coming on a Discord server I was in. They saw my blog and that post and began to do what a troll does best: troll. I&amp;rsquo;m going to hope something like that doesn&amp;rsquo;t happen again. I know this isn&amp;rsquo;t the usual stuff I talk about here, but it&amp;rsquo;s my blog and I will just talk about whatever interests me at the time.</description>
     </item>
     <item>
       <title>What is, in my opinion, the reason why Linux isn&#39;t popular for normal desktop use?</title>
-      <link>http://localhost:1313/posts/mainstream_linux_use/</link>
+      <link>http://winnyace.github.io/posts/mainstream_linux_use/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mainstream_linux_use/</guid>
+      <guid>http://winnyace.github.io/posts/mainstream_linux_use/</guid>
       <description>Hi! For as long as I&amp;rsquo;ve used Linux, it wasn&amp;rsquo;t super popular with mainstream desktop usage, even amongst people that I consider to be nerdy or knowledgeable in this topic. I&amp;rsquo;ve tried many times to bring people over, oftentimes being met with failure. If you don&amp;rsquo;t mind a confession, I used to think that many people who didn&amp;rsquo;t want even try Linux were just&amp;hellip; dumb. Lazy and dumb people, blinded by Windows&amp;rsquo;s and MacOS&amp;rsquo;s marketing.</description>
     </item>
     <item>
       <title>Some changes to my configuration</title>
-      <link>http://localhost:1313/posts/new_config_stuff/</link>
+      <link>http://winnyace.github.io/posts/new_config_stuff/</link>
       <pubDate>Fri, 17 Mar 2023 22:20:05 +0200</pubDate>
-      <guid>http://localhost:1313/posts/new_config_stuff/</guid>
+      <guid>http://winnyace.github.io/posts/new_config_stuff/</guid>
       <description>Hi! I&amp;rsquo;ve realized that, since my last configuration post, things have changed, quite a bit. I&amp;rsquo;d like to talk about them and some of the things that I still haven&amp;rsquo;t ironed out yet. Let&amp;rsquo;s begin!
 First, my desktop environment: for a long time, I&amp;rsquo;ve used XFCE4 as my main DE. I&amp;rsquo;ve tried window managers like stock Openbox before, or desktop environments like GNOME or Cinnamon, but currently, KDE Plasma is the destkop environment I use.</description>
     </item>
     <item>
       <title>A little story of an old laptop and Linux</title>
-      <link>http://localhost:1313/posts/linux_laptop_story/</link>
+      <link>http://winnyace.github.io/posts/linux_laptop_story/</link>
       <pubDate>Tue, 24 Jan 2023 18:46:34 +0200</pubDate>
-      <guid>http://localhost:1313/posts/linux_laptop_story/</guid>
+      <guid>http://winnyace.github.io/posts/linux_laptop_story/</guid>
       <description>Hi! Happy New Year! Today, I bring you a little story. It&amp;rsquo;s a bit of a sad one, at least for me, but I think one that would be interesting. Let&amp;rsquo;s begin!
 Last week, I got quite sick. It wasn&amp;rsquo;t anything too bad, but it was enough to make me not able to go to school and not being able to go to school means that I had a lot of free time on my hands and I had to do something with it.</description>
     </item>
     <item>
       <title>SteelSeries Rival 3: Linux config mini-guide</title>
-      <link>http://localhost:1313/posts/rival3_linux_config/</link>
+      <link>http://winnyace.github.io/posts/rival3_linux_config/</link>
       <pubDate>Wed, 30 Nov 2022 11:33:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/rival3_linux_config/</guid>
+      <guid>http://winnyace.github.io/posts/rival3_linux_config/</guid>
       <description>Hi! I&amp;rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it. I&amp;rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software.</description>
     </item>
     <item>
       <title>osu! improvement week end</title>
-      <link>http://localhost:1313/posts/osu_i_w_end/</link>
+      <link>http://winnyace.github.io/posts/osu_i_w_end/</link>
       <pubDate>Sun, 04 Sep 2022 15:43:51 +0300</pubDate>
-      <guid>http://localhost:1313/posts/osu_i_w_end/</guid>
+      <guid>http://winnyace.github.io/posts/osu_i_w_end/</guid>
       <description>Hi! I come forward to you today with the sad news that I sadly didn&amp;rsquo;t get the Asymmetry score this week. In fact, I&amp;rsquo;m unsatisfied with what I did this week, so I will have a retrospective around this whole thing instead for the end. It felt fitting.
 I should, however, at least post what I managed to get in terms of the score, which is a slight improvement over the previous score.</description>
     </item>
     <item>
       <title>osu! improvement week 6</title>
-      <link>http://localhost:1313/posts/osu_i_w_6/</link>
+      <link>http://winnyace.github.io/posts/osu_i_w_6/</link>
       <pubDate>Sun, 28 Aug 2022 10:51:41 +0300</pubDate>
-      <guid>http://localhost:1313/posts/osu_i_w_6/</guid>
+      <guid>http://winnyace.github.io/posts/osu_i_w_6/</guid>
       <description>Hi! This week is a bit disappointing due to serval reasons, but I think it&amp;rsquo;s time to do some retrospective and bring some news to this series.
 I will present the scores, first off, in no chronological order. Spoiler alert: only 2 FCs this time. Most scores will be passes.
 First up is a score that I wanted since week 3&amp;amp;4: Futari no Kimochi no Honto no Himitsu DT FC:</description>
     </item>
     <item>
       <title>My configuration and stuff</title>
-      <link>http://localhost:1313/posts/configuration_and_stuff/</link>
+      <link>http://winnyace.github.io/posts/configuration_and_stuff/</link>
       <pubDate>Mon, 22 Aug 2022 11:54:02 +0300</pubDate>
-      <guid>http://localhost:1313/posts/configuration_and_stuff/</guid>
+      <guid>http://winnyace.github.io/posts/configuration_and_stuff/</guid>
       <description>A few months ago, I put my configuration files in a GitHub repo, something I should have done as soon as I learnt how Git works, but alas. Today, I&amp;rsquo;m going to tell you why things are the way they&amp;rsquo;re there and also I hope to give some opinions on some things related to configuration. Let&amp;rsquo;s begin!
 Before I go into them, I want to get out some basic things out of the way.</description>
     </item>
     <item>
       <title>osu! improvement week 5</title>
-      <link>http://localhost:1313/posts/osu_i_w_5/</link>
+      <link>http://winnyace.github.io/posts/osu_i_w_5/</link>
       <pubDate>Wed, 17 Aug 2022 18:54:50 +0300</pubDate>
-      <guid>http://localhost:1313/posts/osu_i_w_5/</guid>
+      <guid>http://winnyace.github.io/posts/osu_i_w_5/</guid>
       <description>Hi! I kinda missed the mark, not gonna lie. I want from now on to post these weekly updates on Sunday. This week is missed, but next one, it will be from today to Sunday next week. I’ll try to keep my promise. Anyway, with that aside, this week was another mostly lazy one, but I got some pretty good scores. Let’s begin!
 After my post from last week, I didn’t play until Thursday.</description>
     </item>
     <item>
       <title>osu! improvement week 3 and 4</title>
-      <link>http://localhost:1313/posts/osu_i_w_3_4/</link>
+      <link>http://winnyace.github.io/posts/osu_i_w_3_4/</link>
       <pubDate>Mon, 08 Aug 2022 13:59:27 +0300</pubDate>
-      <guid>http://localhost:1313/posts/osu_i_w_3_4/</guid>
+      <guid>http://winnyace.github.io/posts/osu_i_w_3_4/</guid>
       <description>Towards the beginning of week 3, I got sick and I couldn&amp;rsquo;t really play, which made me feel like these two weeks would be boring, but I got some pretty good scores overall, and I think I&amp;rsquo;m starting to go down the right path. let&amp;rsquo;s begin with week 3. the only score worth noting here is a FC on an, at the time, newly ranked map of a Gochiusa song. it&amp;rsquo;s a pretty bog standard map, but getting it was very rewarding.</description>
     </item>
     <item>
       <title>osu! improvement week 3 delay</title>
-      <link>http://localhost:1313/posts/osu_i_w_3_delay/</link>
+      <link>http://winnyace.github.io/posts/osu_i_w_3_delay/</link>
       <pubDate>Mon, 01 Aug 2022 13:55:55 +0300</pubDate>
-      <guid>http://localhost:1313/posts/osu_i_w_3_delay/</guid>
+      <guid>http://winnyace.github.io/posts/osu_i_w_3_delay/</guid>
       <description>Hi. Due to me getting slightly sick and also not enough scores to show, I decided to not do this week and I&amp;rsquo;ll lump week 3 and 4 into one. I&amp;rsquo;m sorry for the inconvenience and I hope that I&amp;rsquo;ll show some good stuff next week.</description>
     </item>
     <item>
       <title>osu! improvement week 2</title>
-      <link>http://localhost:1313/posts/osu_i_w_2/</link>
+      <link>http://winnyace.github.io/posts/osu_i_w_2/</link>
       <pubDate>Mon, 25 Jul 2022 13:59:27 +0300</pubDate>
-      <guid>http://localhost:1313/posts/osu_i_w_2/</guid>
+      <guid>http://winnyace.github.io/posts/osu_i_w_2/</guid>
       <description>Hi! This is the second week of my osu! improvement journey some nice things have happened, but it&amp;rsquo;s yet another, sort of, lazy week. Let&amp;rsquo;s begin!
 On Monday and Tuesday, I didn&amp;rsquo;t play at all. no excuse, really. Just laziness.
 On Wednesday, I played for the first time this week. it was pretty good day I got two HR scores. Admittedly, they&amp;rsquo;re quite boring scores, but I think it&amp;rsquo;s a step in the right direction when it comes to HR.</description>
     </item>
     <item>
       <title>osu! improvement week 1</title>
-      <link>http://localhost:1313/posts/osu_i_w_1/</link>
+      <link>http://winnyace.github.io/posts/osu_i_w_1/</link>
       <pubDate>Sun, 17 Jul 2022 18:35:53 +0300</pubDate>
-      <guid>http://localhost:1313/posts/osu_i_w_1/</guid>
+      <guid>http://winnyace.github.io/posts/osu_i_w_1/</guid>
       <description>This week was mostly about getting started with this and trying to enter into a routine. I wanted to play around the same time every single day, but there are a few challenges to that. back in 2020, I used to play around 10-11AM in the morning, for a hour or two, almost every single day. considering I&amp;rsquo;ve other things on my plate nowadays, though, I can&amp;rsquo;t exactly do that, but I think skipping a day or two won&amp;rsquo;t be the end of the world.</description>
     </item>
     <item>
       <title>osu! improvement week 0</title>
-      <link>http://localhost:1313/posts/osu_i_w_0/</link>
+      <link>http://winnyace.github.io/posts/osu_i_w_0/</link>
       <pubDate>Fri, 08 Jul 2022 18:28:33 +0300</pubDate>
-      <guid>http://localhost:1313/posts/osu_i_w_0/</guid>
+      <guid>http://winnyace.github.io/posts/osu_i_w_0/</guid>
       <description>A big part of my teenage life was discovering and playing osu!, a pretty popular rhythm game. I’ve been playing since June of 2016 and ever since then, I wanted to be a good player. Due to laziness, lack of motivation and other similar things, in my 6 years of playing this game, I didn’t get extremely far, but I keep on trying to both improve and have fun.
 In the summer of 2020, I was playing this game quite a lot, to the point where I was doing things that were previously impossible for me.</description>
     </item>
     <item>
       <title>Nostalgia</title>
-      <link>http://localhost:1313/posts/nostalgia/</link>
+      <link>http://winnyace.github.io/posts/nostalgia/</link>
       <pubDate>Thu, 16 Jun 2022 14:29:02 +0300</pubDate>
-      <guid>http://localhost:1313/posts/nostalgia/</guid>
+      <guid>http://winnyace.github.io/posts/nostalgia/</guid>
       <description>I was at my computer, like I always am. Just finished my cycling session and I was really bored, and I saw a Vtuber meme which had a low quality version of Candyland by Tobu, released by NCS, I think(?). Out of my boredom, I decided to actually search for the meme. I’ve enjoyed for the… 10 seconds that it is funny, and then, out of nowhere, I got the title of a song from my childhood in my head: Imaginary Friends by Laszlo, also released by NCS.</description>
     </item>
     <item>
       <title>Hello, World</title>
-      <link>http://localhost:1313/posts/helloworld/</link>
+      <link>http://winnyace.github.io/posts/helloworld/</link>
       <pubDate>Mon, 13 Jun 2022 18:21:04 +0300</pubDate>
-      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <guid>http://winnyace.github.io/posts/helloworld/</guid>
       <description>Hello, world! I&amp;rsquo;m currently still trying to put everything together for the blog and website. right now, for some reason, the new style isn&amp;rsquo;t being implemented, which is kind of annoying. I had to delete my previous repo for this to work, sadly. it&amp;rsquo;s fine now, though. I&amp;rsquo;m glad how well this turned up to be. now, for the future. I&amp;rsquo;m not too sure what I will do here, but I know I want to do something and hopefully share on my little bit of knowledge I&amp;rsquo;ve and leave my mark on this world, somehow.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://winnyace.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://winnyace.github.io/about/</guid>
       <description>Hi! I&amp;rsquo;m winnyace, or winny for short. This is my website/blog thingy I made.
 I&amp;rsquo;m your average nerd and weeb. I plan to become a programmer/software developer/whatever you call someone who makes a computer go brrrr, I guess. I like video games, computers, anime and visual novels from time to time.
 I made this to share my thoughts and opinions on things I believe to be interesting. I hope you&amp;rsquo;ll enjoy it.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://winnyace.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://winnyace.github.io/contact/</guid>
       <description>Below you&amp;rsquo;ve contact info.
 My osu! profile
 My primary email (winnyace@proton.me)

@@ -1,8 +1,8 @@
-baseURL: 'https://winnyace.github.io'
+baseURL: 'http://winnyace.github.io'
 languageCode: en-us
 title: winnyace's blog
 theme: PaperMod
-publishDir: docs
+publishDir: public
 
 params:
   description: winnyace's blog. It's mostly about computers and video games. 

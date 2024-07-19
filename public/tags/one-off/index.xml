@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>One-Off on winnyace&#39;s blog</title>
-    <link>http://localhost:1313/tags/one-off/</link>
+    <link>http://winnyace.github.io/tags/one-off/</link>
     <description>Recent content in One-Off on winnyace&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/one-off/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://winnyace.github.io/tags/one-off/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fixing a new bug that causes TF2 to crash on startup on Linux.</title>
-      <link>http://localhost:1313/posts/tf2_arch_fix/</link>
+      <link>http://winnyace.github.io/posts/tf2_arch_fix/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tf2_arch_fix/</guid>
+      <guid>http://winnyace.github.io/posts/tf2_arch_fix/</guid>
       <description>Hi! I like playing TF2. It&amp;rsquo;s a fun game, even if Valve doesn&amp;rsquo;t really give a shit about it. Problem is that I haven&amp;rsquo;t played in quite some time and I wanted to play it recently. Sadly, I couldn&amp;rsquo;t due to a new update that introduced a bug, I think. I would tell you more if I knew more. All I know is the fix for this issue, that I found on ProtonDB&amp;rsquo;s page for TF2.</description>
     </item>
   </channel>
