@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Opinions on winnyace&#39;s blog</title>
-    <link>http://winnyace.github.io/tags/opinions/</link>
+    <link>http://localhost:1313/tags/opinions/</link>
     <description>Recent content in Opinions on winnyace&#39;s blog</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://winnyace.github.io/tags/opinions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/opinions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is, in my opinion, the reason why Linux isn&#39;t popular for normal desktop use?</title>
-      <link>http://winnyace.github.io/posts/mainstream_linux_use/</link>
+      <link>http://localhost:1313/posts/mainstream_linux_use/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://winnyace.github.io/posts/mainstream_linux_use/</guid>
+      <guid>http://localhost:1313/posts/mainstream_linux_use/</guid>
       <description>Hi! For as long as I&amp;rsquo;ve used Linux, it wasn&amp;rsquo;t super popular with mainstream desktop usage, even amongst people that I consider to be nerdy or knowledgeable in this topic. I&amp;rsquo;ve tried many times to bring people over, oftentimes being met with failure. If you don&amp;rsquo;t mind a confession, I used to think that many people who didn&amp;rsquo;t want even try Linux were just&amp;hellip; dumb. Lazy and dumb people, blinded by Windows&amp;rsquo;s and MacOS&amp;rsquo;s marketing.</description>
     </item>
   </channel>

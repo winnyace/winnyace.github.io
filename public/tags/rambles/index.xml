@@ -2,25 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rambles on winnyace&#39;s blog</title>
-    <link>http://winnyace.github.io/tags/rambles/</link>
+    <link>http://localhost:1313/tags/rambles/</link>
     <description>Recent content in Rambles on winnyace&#39;s blog</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Apr 2024 13:12:42 +0300</lastBuildDate>
-    <atom:link href="http://winnyace.github.io/tags/rambles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jul 2024 12:22:19 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rambles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rambling a bit about my own motivation</title>
+      <link>http://localhost:1313/posts/motivation/</link>
+      <pubDate>Wed, 31 Jul 2024 12:22:19 +0300</pubDate>
+      <guid>http://localhost:1313/posts/motivation/</guid>
+      <description>Hi! Long time no see.
+Have you ever struggled with motivation? Because I do, all the time. It is a pain in the butt. Especially when you&amp;rsquo;re bored and you wonder what you could do to not be bored, like me right now, or when you have an important exam coming up and you just can&amp;rsquo;t be arsed to do anything for it. This is the situation I am in right now.</description>
+    </item>
     <item>
       <title>Rambles: Long time no see.</title>
-      <link>http://winnyace.github.io/posts/talking_time_1/</link>
+      <link>http://localhost:1313/posts/talking_time_1/</link>
       <pubDate>Fri, 05 Apr 2024 13:12:42 +0300</pubDate>
-      <guid>http://winnyace.github.io/posts/talking_time_1/</guid>
+      <guid>http://localhost:1313/posts/talking_time_1/</guid>
       <description>Yo! Long time no see. I have began university, at computer science. Things have been mixed, but mostly well. I kinda just want to do a post to say that I&amp;rsquo;m here and I want to do stuff here. Not sure what, but I know want to do stuff.
 I wanna try to do blog posts that talk about random stuff, either in my life or online that I have an interest in and that sparked my own curiosity.</description>
     </item>
     <item>
       <title>Nostalgia</title>
-      <link>http://winnyace.github.io/posts/nostalgia/</link>
+      <link>http://localhost:1313/posts/nostalgia/</link>
       <pubDate>Thu, 16 Jun 2022 14:29:02 +0300</pubDate>
-      <guid>http://winnyace.github.io/posts/nostalgia/</guid>
+      <guid>http://localhost:1313/posts/nostalgia/</guid>
       <description>I was at my computer, like I always am. Just finished my cycling session and I was really bored, and I saw a Vtuber meme which had a low quality version of Candyland by Tobu, released by NCS, I think(?). Out of my boredom, I decided to actually search for the meme. I’ve enjoyed for the… 10 seconds that it is funny, and then, out of nowhere, I got the title of a song from my childhood in my head: Imaginary Friends by Laszlo, also released by NCS.</description>
     </item>
   </channel>
