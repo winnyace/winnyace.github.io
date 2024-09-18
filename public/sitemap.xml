@@ -5,7 +5,16 @@
     <loc>http://localhost:1313/posts/prostreet_tutorial/</loc>
     <lastmod>2024-08-31T10:52:46+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2024-08-31T10:52:46+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-08-31T10:52:46+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-31T10:52:46+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tutorials/</loc>
     <lastmod>2024-08-31T10:52:46+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -20,9 +29,6 @@
     <loc>http://localhost:1313/posts/motivation/</loc>
     <lastmod>2024-07-31T12:22:19+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-31T12:22:19+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/comments/</loc>
     <lastmod>2024-05-01T09:50:00+03:00</lastmod>
   </url><url>
@@ -33,9 +39,6 @@
     <lastmod>2024-04-05T13:12:42+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/tf2_arch_fix/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/one-off/</loc>
