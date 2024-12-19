@@ -23,7 +23,12 @@ params:
     - name: "email"
       title: "Personal email: winnyace@proton.me"
       url: "mailto:winnyace@proton.me"
+  social: true
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 menu:
   main:

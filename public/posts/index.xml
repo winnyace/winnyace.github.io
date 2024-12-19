@@ -4,7 +4,7 @@
     <title>Posts on winnyace&#39;s blog</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on winnyace&#39;s blog</description>
-    <generator>Hugo -- 0.134.3</generator>
+    <generator>Hugo -- 0.140.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Aug 2024 10:52:46 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -108,11 +108,8 @@ I&amp;rsquo;m doing this post mainly as a reference for setting up most function
 &lt;p&gt;I will present the scores, first off, in no chronological order. Spoiler alert: only 2 FCs this time. Most scores will be passes.&lt;/p&gt;
 &lt;p&gt;First up is a score that I wanted since &lt;a href=&#34;../osu_i_w_3_4/&#34;&gt;week 3&amp;amp;4&lt;/a&gt;: Futari no Kimochi no Honto no Himitsu DT FC:&lt;/p&gt;
 
-
-    
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Qc8n4j_mCzk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Qc8n4j_mCzk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 &lt;p&gt;Remember that Flashlight score from &lt;a href=&#34;../osu_i_w_5/&#34;&gt;last week&lt;/a&gt;? Well, I got the FC!&lt;/p&gt;</description>
