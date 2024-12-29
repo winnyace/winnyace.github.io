@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tutorials on winnyace&#39;s blog</title>
-    <link>http://localhost:1313/tags/tutorials/</link>
+    <link>http://winnyace.github.io/tags/tutorials/</link>
     <description>Recent content in Tutorials on winnyace&#39;s blog</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Aug 2024 10:52:46 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://winnyace.github.io/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to play Need for Speed ProStreet on Linux</title>
-      <link>http://localhost:1313/posts/prostreet_tutorial/</link>
+      <link>http://winnyace.github.io/posts/prostreet_tutorial/</link>
       <pubDate>Sat, 31 Aug 2024 10:52:46 +0300</pubDate>
-      <guid>http://localhost:1313/posts/prostreet_tutorial/</guid>
+      <guid>http://winnyace.github.io/posts/prostreet_tutorial/</guid>
       <description>&lt;p&gt;Hi! Over the summer, I&amp;rsquo;ve gotten the Need for Speed itch. Thus, I&amp;rsquo;ve decided to play a title I have never finished: ProStreet. Getting to work on Linux was a bit of a challenge, however. I hope this post will help you run the game. It worked for me under openSUSE Tumbleweed, with Wine version 9.16 .&lt;/p&gt;
 &lt;p&gt;The first thing you need is the game. The game isn&amp;rsquo;t available for purchase anymore, unless you buy second hand, so pirating is possible. I personally recommend just pirating the game. Here&amp;rsquo;s &lt;a href=&#34;https://pixeldrain.com/u/maXwYgoi&#34;&gt;a link&lt;/a&gt; to an archive of the game. It will have the game with the latest official patch, which is still a bit broken.&lt;/p&gt;</description>
     </item>
