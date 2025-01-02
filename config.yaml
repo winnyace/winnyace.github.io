@@ -14,15 +14,16 @@ params:
     Content: "I'm winnyace, or winny for short. Welcome to my blog! Here, I talk about things that interest me or that I want to share, which are mainly video games and computers."
 
   socialIcons:
+    - name: "email"
+      title: "Personal email: winnyace@proton.me"
+      url: "mailto:winnyace@proton.me"
     - name: "github"
       title: "GitHub Profile"
       url: "https://github.com/winnyace"
     - name: "osu!"
       title: "osu! Profile"
       url: "https://osu.ppy.sh/users/winnyace"
-    - name: "email"
-      title: "Personal email: winnyace@proton.me"
-      url: "mailto:winnyace@proton.me"
+
   social: true
 
 markup:
