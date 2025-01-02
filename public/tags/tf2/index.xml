@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TF2 on winnyace&#39;s blog</title>
-    <link>http://winnyace.github.io/tags/tf2/</link>
+    <link>http://localhost:1313/tags/tf2/</link>
     <description>Recent content in TF2 on winnyace&#39;s blog</description>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://winnyace.github.io/tags/tf2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tf2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fixing a new bug that causes TF2 to crash on startup on Linux.</title>
-      <link>http://winnyace.github.io/posts/tf2_arch_fix/</link>
+      <link>http://localhost:1313/posts/tf2_arch_fix/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://winnyace.github.io/posts/tf2_arch_fix/</guid>
-      <description>&lt;p&gt;Hi! I like playing TF2. It&amp;rsquo;s a fun game, even if Valve doesn&amp;rsquo;t really give a shit about it. Problem is that I haven&amp;rsquo;t played in quite some time and I wanted to play it recently. Sadly, I couldn&amp;rsquo;t due to a new update that introduced a bug, I think. I would tell you more if I knew more. All I know is the fix for this issue, that I found on &lt;a href=&#34;https://www.protondb.com/app/440#F5eUgPqkSk&#34;&gt;ProtonDB&amp;rsquo;s page for TF2.&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/tf2_arch_fix/</guid>
+      <description>Hi! I like playing TF2. It&amp;rsquo;s a fun game, even if Valve doesn&amp;rsquo;t really give a shit about it. Problem is that I haven&amp;rsquo;t played in quite some time and I wanted to play it recently. Sadly, I couldn&amp;rsquo;t due to a new update that introduced a bug, I think. I would tell you more if I knew more. All I know is the fix for this issue, that I found on ProtonDB&amp;rsquo;s page for TF2.</description>
     </item>
   </channel>
 </rss>
