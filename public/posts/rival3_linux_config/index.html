@@ -1,24 +1,25 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
 <title>SteelSeries Rival 3: Linux config mini-guide | winnyace&#39;s blog</title>
 <meta name="keywords" content="Linux, Tutorial, Hardware">
-<meta name="description" content="Hi! I&rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it. I&rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software.">
+<meta name="description" content="Hi! I&rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it.
+I&rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software. I&rsquo;m not sure if the SteelSeries software thing works under Wine or not and to be honest I don&rsquo;t really want to try either. Most likely, in the future, this information will be out-of-date. This isn&rsquo;t a review of the mice. This is just for setting it up for what I think is normal use. If you want a super quick opinion on it, though, it is great and works very well. With all of that out of the way, let&rsquo;s get into setting this puppy up.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/posts/rival3_linux_config/">
+<link rel="canonical" href="http://winnyace.github.io/posts/rival3_linux_config/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.fc220c15db4aef0318bbf30adc45d33d4d7c88deff3238b23eb255afdc472ca6.css" integrity="sha256-/CIMFdtK7wMYu/MK3EXTPU18iN7/MjiyPrJVr9xHLKY=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="http://winnyace.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://winnyace.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://winnyace.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://winnyace.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="http://winnyace.github.io/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/rival3_linux_config/">
+<link rel="alternate" hreflang="en" href="http://winnyace.github.io/posts/rival3_linux_config/">
 <noscript>
     <style>
         #theme-toggle,
@@ -55,7 +56,69 @@
         }
 
     </style>
-</noscript>
+</noscript><meta property="og:title" content="SteelSeries Rival 3: Linux config mini-guide" />
+<meta property="og:description" content="Hi! I&rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it.
+I&rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software. I&rsquo;m not sure if the SteelSeries software thing works under Wine or not and to be honest I don&rsquo;t really want to try either. Most likely, in the future, this information will be out-of-date. This isn&rsquo;t a review of the mice. This is just for setting it up for what I think is normal use. If you want a super quick opinion on it, though, it is great and works very well. With all of that out of the way, let&rsquo;s get into setting this puppy up." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://winnyace.github.io/posts/rival3_linux_config/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-11-30T11:33:00+02:00" />
+<meta property="article:modified_time" content="2022-11-30T11:33:00+02:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="SteelSeries Rival 3: Linux config mini-guide"/>
+<meta name="twitter:description" content="Hi! I&rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it.
+I&rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software. I&rsquo;m not sure if the SteelSeries software thing works under Wine or not and to be honest I don&rsquo;t really want to try either. Most likely, in the future, this information will be out-of-date. This isn&rsquo;t a review of the mice. This is just for setting it up for what I think is normal use. If you want a super quick opinion on it, though, it is great and works very well. With all of that out of the way, let&rsquo;s get into setting this puppy up."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "http://winnyace.github.io/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "SteelSeries Rival 3: Linux config mini-guide",
+      "item": "http://winnyace.github.io/posts/rival3_linux_config/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "SteelSeries Rival 3: Linux config mini-guide",
+  "name": "SteelSeries Rival 3: Linux config mini-guide",
+  "description": "Hi! I\u0026rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it. I\u0026rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software. I\u0026rsquo;m not sure if the SteelSeries software thing works under Wine or not and to be honest I don\u0026rsquo;t really want to try either. Most likely, in the future, this information will be out-of-date. This isn\u0026rsquo;t a review of the mice. This is just for setting it up for what I think is normal use. If you want a super quick opinion on it, though, it is great and works very well. With all of that out of the way, let\u0026rsquo;s get into setting this puppy up.\n",
+  "keywords": [
+    "Linux", "Tutorial", "Hardware"
+  ],
+  "articleBody": "Hi! I’ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it. I’m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software. I’m not sure if the SteelSeries software thing works under Wine or not and to be honest I don’t really want to try either. Most likely, in the future, this information will be out-of-date. This isn’t a review of the mice. This is just for setting it up for what I think is normal use. If you want a super quick opinion on it, though, it is great and works very well. With all of that out of the way, let’s get into setting this puppy up.\nAfter you plugged in the mouse, under Linux, the way you configure this mouse’s DPI, polling rate and lighting is through two pieces of software. Technically, you could use one of them, if you really want.\nThe first software I want to talk about is called rivalcfg. It’s a Python CLI app for setting up most functions of what seems to be most SteelSeries mice. The Rival3 is supported, of course. Check the installation guide for your distro.\nAfter installing, you can type rivalcfg --help to see what the software detects. For me, the software detected the mouse right away.\nGetting something like this on the screen means you’re good.\nNow, to change the DPI of the mouse, we use the --sensitivity or -s flag alongside an integer that ranges, for the Rival 3, between 200 and 8500. This number represent the DPI value you want to set the mouse at. So, for example, if I want to set the mouse to 1000 DPI, we would write in the console\nrivalcfg --sensitivity 1000 or rivalcfg -s 1000.\nIf I want to set the mouse to 800 DPI, we do\nrivalcfg --sensitivity 800/rivalcfg -s 800\nTo change the mouse’s polling rate, we use the --polling-rate or -p flag alongside the values that we want from the next list: 125, 250, 500, 1000. I’d personally just set the mouse to the highest polling rate, so\nrivalcfg --polling-rate 1000 or rivalcfg -p 1000.\nIf you have any issue, you could try to set it down and see what it does.\nTo set the lighting for the mouse, you could use this program, but note that the program takes hex color values, so the colors it knows are written like #c3005b, and not ‘redish pink’. If you want to completely disable the RGB lighting, the following commands will do that:\nrivalcfg --c 000000\nrivalcfg --z1 000000\nrivalcfg --z2 000000\nrivalcfg --z3 000000\nThis will set the LEDs to show the color black, so it will turn the LEDs off.\nIf you want to set specific colors to different regions, I would say that this utility doesn’t really work well for it. You can use its documentation and help screen if you want to do that. I don’t like using it for that purpose and so I won’t show it here, but I will tell you about a piece of software I didn’t knew until a few days ago: OpenRGB.\nOpenRGB is a open source RGB setting program. It works for much more than just mice, but we’ll use it for setting up the Rival 3’s lighting. For Linux, there are a lot of ways you could install this app. There’s an AUR package, for those on Arch, deb packages for those on Debian based distros, it even has an AppImage release. Check the downloads for the software here.\nAfter downloading the software, the software should see the mouse immediately.\nThis program is really easy and allows you to control the lights of the mouse much like how the SteelSeries software would. For example, you can easily choose what areas of the mouse are lit. I like having only the logo be lit in a dim light blue color, so I select the ’logo’ option from the zone menu, select a light blue color from the color wheel next to the menus hit ‘Save To Device’ below the color wheel and information and voila, I’m done! I’d show a photo of it, but the camera really doesn’t show how dim the light is and I don’t know how to make it be more dim, so I’m sorry about that.\nYou can pick different regions and different effects, but I will let you discover that.\nThat’s it. I hope I was able to help. See ya!\n",
+  "wordCount" : "802",
+  "inLanguage": "en",
+  "datePublished": "2022-11-30T11:33:00+02:00",
+  "dateModified": "2022-11-30T11:33:00+02:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://winnyace.github.io/posts/rival3_linux_config/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "winnyace's blog",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://winnyace.github.io/favicon.ico"
+    }
+  }
+}
+</script>
 </head>
 
 <body class="" id="top">
@@ -73,7 +136,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="winnyace&#39;s blog (Alt + H)">winnyace&#39;s blog</a>
+            <a href="http://winnyace.github.io/" accesskey="h" title="winnyace&#39;s blog (Alt + H)">winnyace&#39;s blog</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -99,12 +162,12 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/tags/" title="tags">
+                <a href="http://winnyace.github.io/tags/" title="tags">
                     <span>Tags</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/contact/" title="contact">
+                <a href="http://winnyace.github.io/contact/" title="contact">
                     <span>Contact</span>
                 </a>
             </li>
@@ -159,16 +222,16 @@ I&rsquo;m doing this post mainly as a reference for setting up most functions of
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="http://localhost:1313/tags/linux/">Linux</a></li>
-      <li><a href="http://localhost:1313/tags/tutorial/">Tutorial</a></li>
-      <li><a href="http://localhost:1313/tags/hardware/">Hardware</a></li>
+      <li><a href="http://winnyace.github.io/tags/linux/">Linux</a></li>
+      <li><a href="http://winnyace.github.io/tags/tutorial/">Tutorial</a></li>
+      <li><a href="http://winnyace.github.io/tags/hardware/">Hardware</a></li>
     </ul>
   </footer>
 </article>
     </main>
     
 <footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/">winnyace&#39;s blog</a></span> · 
+        <span>&copy; 2025 <a href="http://winnyace.github.io/">winnyace&#39;s blog</a></span> · 
 
     <span>
         Powered by
