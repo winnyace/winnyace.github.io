@@ -8,6 +8,7 @@ params:
   description: winnyace's blog. It's mostly about computers and video games. 
   ShowReadingTime: true
   ShowToc: true
+  social: true
   favicon: "favicon.ico"
   homeInfoParams:
     Title: Hi! 👋
@@ -24,7 +25,6 @@ params:
       title: "osu! Profile"
       url: "https://osu.ppy.sh/users/winnyace"
 
-  social: true
 
 markup:
   goldmark:
