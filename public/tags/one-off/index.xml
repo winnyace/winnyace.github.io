@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>One-Off on winnyace&#39;s blog</title>
-    <link>http://localhost:1313/tags/one-off/</link>
+    <link>http://winnyace.codeberg.page/tags/one-off/</link>
     <description>Recent content in One-Off on winnyace&#39;s blog</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/one-off/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://winnyace.codeberg.page/tags/one-off/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OUTDATED AND POTENTIALLY WRONG! Fixing a new bug that causes TF2 to crash on startup on Linux.</title>
-      <link>http://localhost:1313/posts/tf2_arch_fix/</link>
+      <link>http://winnyace.codeberg.page/posts/tf2_arch_fix/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tf2_arch_fix/</guid>
+      <guid>http://winnyace.codeberg.page/posts/tf2_arch_fix/</guid>
       <description>&lt;h2 id=&#34;disclaimer&#34;&gt;DISCLAIMER&lt;/h2&gt;
 &lt;p&gt;Hi! It&amp;rsquo;s winny from the future. This article is:&lt;/p&gt;
 &lt;ol&gt;
