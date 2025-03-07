@@ -1,4 +1,4 @@
-baseURL: 'http:/winnyace.github.io'
+baseURL: 'https://winnyace.github.io'
 languageCode: en-us
 title: winnyace's blog
 theme: PaperMod
@@ -33,11 +33,6 @@ markup:
 
 menu:
   main:
-    - identifier: contact
-      name: Contact
-      title: contact
-      url: /contact/
-      weight: 10
     - identifier: Tags
       name: Tags
       title: tags

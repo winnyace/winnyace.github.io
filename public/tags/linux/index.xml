@@ -2,47 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on winnyace&#39;s blog</title>
-    <link>http:/winnyace.github.io/tags/linux/</link>
+    <link>https://winnyace.github.io/tags/linux/</link>
     <description>Recent content in Linux on winnyace&#39;s blog</description>
-    <generator>Hugo -- 0.144.2</generator>
+    <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Aug 2024 10:52:46 +0300</lastBuildDate>
-    <atom:link href="http:/winnyace.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://winnyace.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to play Need for Speed ProStreet on Linux</title>
-      <link>http:/winnyace.github.io/posts/prostreet_tutorial/</link>
+      <link>https://winnyace.github.io/posts/prostreet_tutorial/</link>
       <pubDate>Sat, 31 Aug 2024 10:52:46 +0300</pubDate>
-      <guid>http:/winnyace.github.io/posts/prostreet_tutorial/</guid>
-      <description>&lt;p&gt;Hi! Over the summer, I&amp;rsquo;ve gotten the Need for Speed itch. Thus, I&amp;rsquo;ve decided to play a title I have never finished: ProStreet. Getting to work on Linux was a bit of a challenge, however. I hope this post will help you run the game. It worked for me under openSUSE Tumbleweed, with Wine version 9.16 .&lt;/p&gt;
-&lt;p&gt;The first thing you need is the game. The game isn&amp;rsquo;t available for purchase anymore, unless you buy second hand, so pirating is possible. I personally recommend just pirating the game. Here&amp;rsquo;s &lt;a href=&#34;https://pixeldrain.com/u/maXwYgoi&#34;&gt;a link&lt;/a&gt; to an archive of the game. It will have the game with the latest official patch, which is still a bit broken.&lt;/p&gt;</description>
+      <guid>https://winnyace.github.io/posts/prostreet_tutorial/</guid>
+      <description>Hi! Over the summer, I&amp;rsquo;ve gotten the Need for Speed itch. Thus, I&amp;rsquo;ve decided to play a title I have never finished: ProStreet. Getting to work on Linux was a bit of a challenge, however. I hope this post will help you run the game. It worked for me under openSUSE Tumbleweed, with Wine version 9.16 .
+The first thing you need is the game. The game isn&amp;rsquo;t available for purchase anymore, unless you buy second hand, so pirating is possible.</description>
     </item>
     <item>
       <title>OUTDATED AND POTENTIALLY WRONG! Fixing a new bug that causes TF2 to crash on startup on Linux.</title>
-      <link>http:/winnyace.github.io/posts/tf2_arch_fix/</link>
+      <link>https://winnyace.github.io/posts/tf2_arch_fix/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http:/winnyace.github.io/posts/tf2_arch_fix/</guid>
-      <description>&lt;h2 id=&#34;disclaimer&#34;&gt;DISCLAIMER&lt;/h2&gt;
-&lt;p&gt;Hi! It&amp;rsquo;s winny from the future. This article is:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Very old;&lt;/li&gt;
-&lt;li&gt;Potentially incorrect in the Debian section entirely!&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I decided to leave this article up for the sake of historical purposes, but this issue has been fixed, I believe, &lt;a href=&#34;https://www.teamfortress.com/post.php?id=220436&#34;&gt;since the introduction of the 64-bit client for Team Fortress 2, almost a year ago.&lt;/a&gt; As such, please don&amp;rsquo;t use this article. If you have issues with something regarding Team Fortress 2 and Linux, check &lt;a href=&#34;https://www.protondb.com/app/440&#34;&gt;TF2&amp;rsquo;s ProtonDB page.&lt;/a&gt; Thank you!&lt;/p&gt;</description>
+      <guid>https://winnyace.github.io/posts/tf2_arch_fix/</guid>
+      <description>DISCLAIMER Hi! It&amp;rsquo;s winny from the future. This article is:
+Very old; Potentially incorrect in the Debian section entirely! I decided to leave this article up for the sake of historical purposes, but this issue has been fixed, I believe, since the introduction of the 64-bit client for Team Fortress 2, almost a year ago. As such, please don&amp;rsquo;t use this article. If you have issues with something regarding Team Fortress 2 and Linux, check TF2&amp;rsquo;s ProtonDB page.</description>
     </item>
     <item>
       <title>What is, in my opinion, the reason why Linux isn&#39;t popular for normal desktop use?</title>
-      <link>http:/winnyace.github.io/posts/mainstream_linux_use/</link>
+      <link>https://winnyace.github.io/posts/mainstream_linux_use/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http:/winnyace.github.io/posts/mainstream_linux_use/</guid>
-      <description>&lt;p&gt;Hi! For as long as I&amp;rsquo;ve used Linux, it wasn&amp;rsquo;t super popular with mainstream desktop usage, even amongst people that I consider to be nerdy or knowledgeable in this topic. I&amp;rsquo;ve tried many times to bring people over, oftentimes being met with failure. If you don&amp;rsquo;t mind a confession, I used to think that many people who didn&amp;rsquo;t want even try Linux were just&amp;hellip; dumb. Lazy and dumb people, blinded by Windows&amp;rsquo;s and MacOS&amp;rsquo;s marketing. &amp;ldquo;Why can&amp;rsquo;t they see this as the better OS?&amp;rdquo; is what I said to myself oftentimes.&lt;/p&gt;</description>
+      <guid>https://winnyace.github.io/posts/mainstream_linux_use/</guid>
+      <description>Hi! For as long as I&amp;rsquo;ve used Linux, it wasn&amp;rsquo;t super popular with mainstream desktop usage, even amongst people that I consider to be nerdy or knowledgeable in this topic. I&amp;rsquo;ve tried many times to bring people over, oftentimes being met with failure. If you don&amp;rsquo;t mind a confession, I used to think that many people who didn&amp;rsquo;t want even try Linux were just&amp;hellip; dumb. Lazy and dumb people, blinded by Windows&amp;rsquo;s and MacOS&amp;rsquo;s marketing.</description>
     </item>
     <item>
       <title>SteelSeries Rival 3: Linux config mini-guide</title>
-      <link>http:/winnyace.github.io/posts/rival3_linux_config/</link>
+      <link>https://winnyace.github.io/posts/rival3_linux_config/</link>
       <pubDate>Wed, 30 Nov 2022 11:33:00 +0200</pubDate>
-      <guid>http:/winnyace.github.io/posts/rival3_linux_config/</guid>
-      <description>&lt;p&gt;Hi! I&amp;rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it.
-I&amp;rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software. I&amp;rsquo;m not sure if the SteelSeries software thing works under Wine or not and to be honest I don&amp;rsquo;t really want to try either. Most likely, in the future, this information will be out-of-date. &lt;strong&gt;This isn&amp;rsquo;t a review of the mice. This is just for setting it up for what I think is normal use.&lt;/strong&gt; If you want a super quick opinion on it, though, it is great and works very well. With all of that out of the way, let&amp;rsquo;s get into setting this puppy up.&lt;/p&gt;</description>
+      <guid>https://winnyace.github.io/posts/rival3_linux_config/</guid>
+      <description>Hi! I&amp;rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it. I&amp;rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software.</description>
     </item>
   </channel>
 </rss>

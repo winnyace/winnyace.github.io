@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hardware on winnyace&#39;s blog</title>
-    <link>http:/winnyace.github.io/tags/hardware/</link>
+    <link>https://winnyace.github.io/tags/hardware/</link>
     <description>Recent content in Hardware on winnyace&#39;s blog</description>
-    <generator>Hugo -- 0.144.2</generator>
+    <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Nov 2022 11:33:00 +0200</lastBuildDate>
-    <atom:link href="http:/winnyace.github.io/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://winnyace.github.io/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SteelSeries Rival 3: Linux config mini-guide</title>
-      <link>http:/winnyace.github.io/posts/rival3_linux_config/</link>
+      <link>https://winnyace.github.io/posts/rival3_linux_config/</link>
       <pubDate>Wed, 30 Nov 2022 11:33:00 +0200</pubDate>
-      <guid>http:/winnyace.github.io/posts/rival3_linux_config/</guid>
-      <description>&lt;p&gt;Hi! I&amp;rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it.
-I&amp;rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software. I&amp;rsquo;m not sure if the SteelSeries software thing works under Wine or not and to be honest I don&amp;rsquo;t really want to try either. Most likely, in the future, this information will be out-of-date. &lt;strong&gt;This isn&amp;rsquo;t a review of the mice. This is just for setting it up for what I think is normal use.&lt;/strong&gt; If you want a super quick opinion on it, though, it is great and works very well. With all of that out of the way, let&amp;rsquo;s get into setting this puppy up.&lt;/p&gt;</description>
+      <guid>https://winnyace.github.io/posts/rival3_linux_config/</guid>
+      <description>Hi! I&amp;rsquo;ve purchased recently a new mouse: a SteelSeries Rival 3. I had a Logitech G102 mouse before, but it sadly broke. Setting it up was a bit of a challenge, however. I want to show you today how to set it up using two programs: a CLI one for general configuration and a GUI one for the lighting on it. I&amp;rsquo;m doing this post mainly as a reference for setting up most functions of the mice as of November 2022, using Linux native software.</description>
     </item>
   </channel>
 </rss>
