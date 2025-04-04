@@ -1,23 +1,37 @@
 ---
 title: 'How to play Need for Speed ProStreet on Linux'
-date: 2024-08-31T10:52:46+03:00
+date: 2025-04-04
 draft: false
 tags:
 - Linux
 - Tutorials
 ---
 
-Hi! Over the summer, I've gotten the Need for Speed itch. Thus, I've decided to play a title I have never finished: ProStreet. Getting to work on Linux was a bit of a challenge, however. I hope this post will help you run the game. It worked for me under openSUSE Tumbleweed, with Wine version 9.16 .
+Hi! Over the last summer, I've gotten the Need for Speed itch. Thus, I've decided to play a title I have never fully played: ProStreet. Getting it to work on Linux was a bit of a challenge, however, so I decided to document how I was able to install the game and play it.
 
-The first thing you need is the game. The game isn't available for purchase anymore, unless you buy second hand, so pirating is possible. I personally recommend just pirating the game. Here's [a link](https://pixeldrain.com/u/maXwYgoi) to an archive of the game. It will have the game with the latest official patch, which is still a bit broken.
+## Necessary files and programs
 
-Next, we will need a special .exe file for the game. Here's [a link](https://g06.mobiletarget.net/?y=4f95b43f&x=%2FuICh%2FSHYIusoj2por6XBj85TS0CEeI%2Br0nLW8JXALPAAwCSBFxoN5N11CHniB7sAg%2BZ%2FLqcjP3zS6bv9%2BfLyJvfzN9WO8iTSWOqHxvWEe5ozbsjKUChiXKvTSKBOXdS) for that special .exe file as well. Just replace the .exe from the game folder with the one from the provided archive.
+The first thing you need is the game. The game isn't available for purchase anymore, unless you buy it second hand. As such, [here's a link to an archive of the game](https://drive.google.com/file/d/13ZxE-Fznpklvf4NCpbskO8KM7uJDnyfG/view?usp=sharing). It will have the game with the latest official patch, which is still a bit broken.
 
-Afterwards, it is time to set up our prefix. You would need `winetricks` installed for this step and obviously Wine. I won't be going over this step, since there are already plenty of tutorials for doing that. To generate the prefix, type in a terminal `WINEPREFIX=/path/to/your/prefix WINEARCH=win32 winecfg`. It will open up the config program for Wine. Now it is time to install the required stuff for the game to work. Type in a terminal `WINEPREFIX=/path/to/your/prefix WINEARCH=win32 winetricks d3dx9_34 dxvk`. This will be enough to play the game, without community fixes.
+Next, you will need a special .exe file for the game. This special .exe, to my knowledge, removes the need for the game's DVD to be inserted, alongside having some sort of fixes in-built too. [Here's a link for that special .exe file](https://drive.google.com/file/d/19gBVE_-6Ebnl3wZFriqxCx02l8pLSX2l/view?usp=sharing).
 
-I recommend you do install community fixes, however. The one I used was [ThirteenAG's ProStreet Generic Fix](https://github.com/ThirteenAG/WidescreenFixesPack/releases/tag/nfsps). Just download it and replace the files from the game folder with the ones from the archive. After that, open `winecfg` in your prefix, go to the Libraries, and in dropdown box, type `dinput8` and click Add. 
+Next, you will need Wine and Winetricks installed. This is different based on the distribution you're running and I believe that putting the install process for these two programs here is unnecessary, so please find another tutorial on installing Wine and Winetricks for your distribution of choice.
 
-That's it! You can now launch the game by going in the game folder, pointing to your prefix and launching the game exe. Enjoy!
+Finally, I do recommend you install [ThirteenAG's ProStreet Generic Fix](https://thirteenag.github.io/wfp#nfsps). This fixes some more problems with the game, including the broken 16:9 aspect ratio.
 
-Recommendation for complete newbies:
-* For the prefix path, I recommend `/home/<your_username>/.local/share/wineprefixes/nfsps`. The folder wineprefixes doesn't exist by default. You can create it with the terminal by typing `mkdir $HOME/.local/share/wineprefixes`.
+## Install steps
+
+1. Extract the game files from the first archive provided and copy the .exe file from the second archive provided
+2. Generate the prefix/bottle for the game:
+
+`WINEPREFIX=/path/to/your/prefix WINEARCH=win32 winecfg`
+
+3. Install the necessary libraries required for the game:
+
+`WINEPREFIX=/path/to/your/prefix WINEARCH=win32 winetricks d3dx9_34 dxvk`
+
+4. After you follow the install instructions for the community fixes from [ThirteenAG's website](https://thirteenag.github.io/wfp#nfsps), open up `winecfg` inside the prefix (the command from step 2 will do just that). Click on the tab named *Libraries* and click inside the text box/dropdown menu under the label *New override for library*, type `dinput8` and then click *Add* and, lastly, click *Apply*.
+
+## Closing words
+
+That's it! You can now launch the game by going in the game folder, pointing to your prefix and launching the game exe with Wine. Enjoy!

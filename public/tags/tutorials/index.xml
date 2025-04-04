@@ -4,17 +4,18 @@
     <title>Tutorials on winnyace&#39;s blog</title>
     <link>https://winnyace.github.io/tags/tutorials/</link>
     <description>Recent content in Tutorials on winnyace&#39;s blog</description>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Aug 2024 10:52:46 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://winnyace.github.io/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to play Need for Speed ProStreet on Linux</title>
       <link>https://winnyace.github.io/posts/prostreet_tutorial/</link>
-      <pubDate>Sat, 31 Aug 2024 10:52:46 +0300</pubDate>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://winnyace.github.io/posts/prostreet_tutorial/</guid>
-      <description>Hi! Over the summer, I&amp;rsquo;ve gotten the Need for Speed itch. Thus, I&amp;rsquo;ve decided to play a title I have never finished: ProStreet. Getting to work on Linux was a bit of a challenge, however. I hope this post will help you run the game. It worked for me under openSUSE Tumbleweed, with Wine version 9.16 .
-The first thing you need is the game. The game isn&amp;rsquo;t available for purchase anymore, unless you buy second hand, so pirating is possible.</description>
+      <description>&lt;p&gt;Hi! Over the last summer, I&amp;rsquo;ve gotten the Need for Speed itch. Thus, I&amp;rsquo;ve decided to play a title I have never fully played: ProStreet. Getting it to work on Linux was a bit of a challenge, however, so I decided to document how I was able to install the game and play it.&lt;/p&gt;
+&lt;h2 id=&#34;necessary-files-and-programs&#34;&gt;Necessary files and programs&lt;/h2&gt;
+&lt;p&gt;The first thing you need is the game. The game isn&amp;rsquo;t available for purchase anymore, unless you buy it second hand. As such, &lt;a href=&#34;https://drive.google.com/file/d/13ZxE-Fznpklvf4NCpbskO8KM7uJDnyfG/view?usp=sharing&#34;&gt;here&amp;rsquo;s a link to an archive of the game&lt;/a&gt;. It will have the game with the latest official patch, which is still a bit broken.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
