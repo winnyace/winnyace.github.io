@@ -21,7 +21,7 @@ Finally, I do recommend you install [ThirteenAG's ProStreet Generic Fix](https:/
 
 ## Install steps
 
-1. Extract the game files from the first archive provided and copy the .exe file from the second archive provided
+1. Extract the game files from the first archive provided and place the .exe file from the second archive provided in the game files, replacing the original.
 2. Generate the prefix/bottle for the game:
 
 `WINEPREFIX=/path/to/your/prefix WINEARCH=win32 winecfg`
