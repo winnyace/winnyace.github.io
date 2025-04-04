@@ -4,7 +4,7 @@ date: 2025-04-04
 draft: false
 tags:
 - Linux
-- Tutorials
+- Tutorial
 ---
 
 Hi! Over the last summer, I've gotten the Need for Speed itch. Thus, I've decided to play a title I have never fully played: ProStreet. Getting it to work on Linux was a bit of a challenge, however, so I decided to document how I was able to install the game and play it.

@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>How to play Need for Speed ProStreet on Linux | winnyace&#39;s blog</title>
-<meta name="keywords" content="Linux, Tutorials">
+<meta name="keywords" content="Linux, Tutorial">
 <meta name="description" content="Hi! Over the last summer, I&rsquo;ve gotten the Need for Speed itch. Thus, I&rsquo;ve decided to play a title I have never fully played: ProStreet. Getting it to work on Linux was a bit of a challenge, however, so I decided to document how I was able to install the game and play it.
 Necessary files and programs
 The first thing you need is the game. The game isn&rsquo;t available for purchase anymore, unless you buy it second hand. As such, here&rsquo;s a link to an archive of the game. It will have the game with the latest official patch, which is still a bit broken.">
@@ -101,7 +101,7 @@ The first thing you need is the game. The game isn&rsquo;t available for purchas
   "name": "How to play Need for Speed ProStreet on Linux",
   "description": "Hi! Over the last summer, I\u0026rsquo;ve gotten the Need for Speed itch. Thus, I\u0026rsquo;ve decided to play a title I have never fully played: ProStreet. Getting it to work on Linux was a bit of a challenge, however, so I decided to document how I was able to install the game and play it.\nNecessary files and programs The first thing you need is the game. The game isn\u0026rsquo;t available for purchase anymore, unless you buy it second hand. As such, here\u0026rsquo;s a link to an archive of the game. It will have the game with the latest official patch, which is still a bit broken.\n",
   "keywords": [
-    "Linux", "Tutorials"
+    "Linux", "Tutorial"
   ],
   "articleBody": "Hi! Over the last summer, I’ve gotten the Need for Speed itch. Thus, I’ve decided to play a title I have never fully played: ProStreet. Getting it to work on Linux was a bit of a challenge, however, so I decided to document how I was able to install the game and play it.\nNecessary files and programs The first thing you need is the game. The game isn’t available for purchase anymore, unless you buy it second hand. As such, here’s a link to an archive of the game. It will have the game with the latest official patch, which is still a bit broken.\nNext, you will need a special .exe file for the game. This special .exe, to my knowledge, removes the need for the game’s DVD to be inserted, alongside having some sort of fixes in-built too. Here’s a link for that special .exe file.\nNext, you will need Wine and Winetricks installed. This is different based on the distribution you’re running and I believe that putting the install process for these two programs here is unnecessary, so please find another tutorial on installing Wine and Winetricks for your distribution of choice.\nFinally, I do recommend you install ThirteenAG’s ProStreet Generic Fix. This fixes some more problems with the game, including the broken 16:9 aspect ratio.\nInstall steps Extract the game files from the first archive provided and copy the .exe file from the second archive provided Generate the prefix/bottle for the game: WINEPREFIX=/path/to/your/prefix WINEARCH=win32 winecfg\nInstall the necessary libraries required for the game: WINEPREFIX=/path/to/your/prefix WINEARCH=win32 winetricks d3dx9_34 dxvk\nAfter you follow the install instructions for the community fixes from ThirteenAG’s website, open up winecfg inside the prefix (the command from step 2 will do just that). Click on the tab named Libraries and click inside the text box/dropdown menu under the label New override for library, type dinput8 and then click Add and, lastly, click Apply. Closing words That’s it! You can now launch the game by going in the game folder, pointing to your prefix and launching the game exe with Wine. Enjoy!\n",
   "wordCount" : "349",
@@ -230,7 +230,7 @@ The first thing you need is the game. The game isn&rsquo;t available for purchas
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="https://winnyace.github.io/tags/linux/">Linux</a></li>
-      <li><a href="https://winnyace.github.io/tags/tutorials/">Tutorials</a></li>
+      <li><a href="https://winnyace.github.io/tags/tutorial/">Tutorial</a></li>
     </ul>
   </footer>
 </article>
